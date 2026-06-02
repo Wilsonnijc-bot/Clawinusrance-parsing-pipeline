@@ -1,0 +1,9 @@
+{
+  "Plan_category": "whole life",
+  "Coverage_Description": "Guaranteed monthly income for 50 years plus non-guaranteed monthly income until policy end; death benefit is the higher of 100% of total premiums paid or 101% guaranteed cash value plus terminal bonus (less outstanding loans); maturity benefit payable at initial insured age 151",
+  "pricing": "US$200,000/year (illustrative case, age 55, 5-year premium payment term).",
+  "age": "15 days-75",
+  "customer requirement": "Insured must be at least 15 days old at application; no health information required if total nominal amount is within the administrative limit",
+  "price structure": "3-year or 5-year pay; designated insurance rate by pay term, same rate across age, gender, smoking status, and residence",
+  "additional informations": "Unlimited insured change, one contingent insured allowed, and policy split option available from policy year 5"
+}

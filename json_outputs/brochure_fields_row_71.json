@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Global (excluding non-accidental treatment in the U.S.) private-room medical reimbursement with annual limit US$3,750,000/HK$30,000,000 and lifetime limit US$8,750,000/HK$70,000,00; covers hospitalization, surgery, non-surgical cancer treatment, pre/post-hospital care and rehabilitation, with guaranteed lifetime renewal",
+  "pricing": null,
+  "age": "15 days-69",
+  "customer requirement": "insured must be at least 15 days old at application; outpatient rider only attachable when applying for this plan",
+  "price structure": "HKD/USD policy; annual renewable and non-guaranteed premium rates adjusted by risk class (e.g., age, deductible, nationality/residence)",
+  "additional informations": "room class above private room reimbursed at 25%; includes direct billing service, second medical opinion/overseas medical concierge, and mainland China green channel service"
+}

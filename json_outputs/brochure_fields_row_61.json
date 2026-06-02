@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Lifetime critical illness plan covering 74 conditions (56 severe + 18 early-stage); severe CI pays up to 100% sum assured once, early-stage CI allows up to 3 claims (up to 25%/20% each), plus ICU benefit up to 20% once (10% if ICU stay outside Hong Kong)",
+  "pricing": "US$2,197/year (illustrative: age 30, non-smoker, 20-year premium term, US$100,000 sum assured); 10-year total premium in example US$19,773 (excludes levy).",
+  "age": "15 days-65",
+  "customer requirement": "Insured must be at least 15 days old at application",
+  "price structure": "Risk-based premium by age/sex/smoking/nationality + premium term + policy currency (HKD/USD); insurer may review rates at each policy anniversary for risk class",
+  "additional informations": "Participating plan with guaranteed cash value from policy year 3 and non-guaranteed terminal bonus from year 5; optional inflation benefit increases original sum assured 5% yearly up to 200%; includes international second medical opinion/overseas medical concierge service"
+}

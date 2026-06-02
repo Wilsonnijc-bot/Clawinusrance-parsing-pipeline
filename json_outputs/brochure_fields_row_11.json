@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Medical reimbursement cover for hospitalisation, surgery, and pre/post-hospital care, including cancer treatment, dialysis, stroke rehabilitation and pregnancy complications; overall lifetime limit HK$50,000,000 (US$6,250,000), annual limit HK$20,000,000 (US$2,500,000), with deductible options HK$0/16,000/25,000/50,000 and geographical cover choices wor",
+  "pricing": null,
+  "age": "15 days-70",
+  "customer requirement": "Hong Kong distribution only; add-on plan version must attach to a specified basic plan",
+  "price structure": "Basic plan premium mode: annual/semi-annual/quarterly/monthly; add-on follows corresponding basic plan",
+  "additional informations": "no-claim deductible discount 10% every 2 claim-free years up to 100% (reset after claim)"
+}

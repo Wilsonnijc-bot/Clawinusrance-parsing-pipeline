@@ -1,0 +1,9 @@
+{
+  "Plan_category": "critical illness",
+  "Coverage_Description": "Covers 56 critical conditions with lifelong protection; pays 100% of current sum assured as a one-off CI benefit plus non-guaranteed terminal bonus (from policy year 5). Key conditions include 90-day waiting period for non-accidental ca",
+  "pricing": "US$1,897/year (illustrative: age 40, non-smoker status not stated, US$100,000 sum assured, premium payment to age 66)",
+  "age": "15 days-65",
+  "customer requirement": "Minimum issue age 15 days; CI claim requires insured to survive to diagnosis",
+  "price structure": "Premium based on risk class and selected payment term (to age 66 or 86); insurer may review and adjust rates at each policy anniversary",
+  "additional informations": "Participating plan with non-guaranteed terminal bonus; optional 5% annual sum-assured increase up to 200% of initial amount; optional riders (severe cancer lump sum, multi-claim for cancer/heart attack/stroke)"
+}

@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Covers eligible medical expenses for cancer (including carcinoma-in-situ), heart attack, and stroke, including diagnosis, inpatient/outpatient treatment, reconstruction, and post-t; per covered disease limit HK$500,000-HK$3,000,000 and lifetime limit HK$3,000,000-HK$18,000,000 (plan-dependent)",
+  "pricing": null,
+  "age": "15 days-65",
+  "customer requirement": "Insured must be at least 15 days old at application; Plan 1 is rider-only, Plans 2-4 can be basic or rider",
+  "price structure": "4 plan tiers with different benefit limits; premium is renewable and adjusted at renewal by risk class (e.g., age/sex/smoking/plan level/nationality/residency), not guaranteed level",
+  "additional informations": "Global coverage; ward class options (general ward or semi-private); includes value-added preset policy instruction service (\"PRUCare Smart Cover\"/\"智安排\")"
+}

@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Lump-sum cancer protection: 100% sum insured for covered cancer; 25% for covered early cancer (carcinoma in situ/early thyroid or prostate), with early-claim amount reducing subsequent cancer benefit; HK$20,000/US$2,500 death benefit if no cancer claim paid",
+  "pricing": null,
+  "age": "15 days-65",
+  "customer requirement": "Health declaration required; no medical exam",
+  "price structure": "Yearly renewable premium; rates can be adjusted at each policy anniversary by risk class (e.g., age, sex, smoking)",
+  "additional informations": "Guaranteed renewal to age 81 (age next birthday); available as a standalone basic plan; policy currency HKD or USD"
+}

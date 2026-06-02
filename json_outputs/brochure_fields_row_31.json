@@ -1,0 +1,9 @@
+{
+  "Plan_category": "dental",
+  "Coverage_Description": "Campus Student Dental Clinic services under the Student Dental Benefit Scheme for full-time students; appointment-based dental care during consultation hours, with emergency routing after hours",
+  "pricing": "HK$30 penalty per 15-minute dentist appointment or per 30-minute hygienist appointment if cancelled with less than 24 hours' notice.",
+  "age": null,
+  "customer requirement": "Eligible PolyU full-time students; one-month service grace period after graduation eligibility confirmation",
+  "price structure": "Per-visit charge schedule (in scheme leaflet) plus fixed HK$30 late-cancellation/no-show penalty by appointment block",
+  "additional informations": "booking via phone, online, or in person; clinic at Room GH020, Core H"
+}

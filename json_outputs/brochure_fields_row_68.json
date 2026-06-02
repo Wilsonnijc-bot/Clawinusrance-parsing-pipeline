@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Cancer medical reimbursement for carcinoma in situ and cancer, covering diagnostic tests, hospitalization/outpatient treatment, chemotherapy/radiotherapy/targeted/hormonal therapy,; per covered cancer limit up to HK$2,000,000 and lifetime limit up to HK$6,000,000 (plan-dependent), with guaranteed lifetime renewal",
+  "pricing": null,
+  "age": "15 days-65",
+  "customer requirement": "must be attached to a basic plan; underwriting required",
+  "price structure": "3 plan tiers; premiums in HKD/USD",
+  "additional informations": "90-day waiting period; excludes pre-existing cancer/related conditions; includes annual discounted cancer screening (1 test/year) and second medical opinion service (max 3 times per plan)"
+}

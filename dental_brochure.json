@@ -1,0 +1,119 @@
+{
+  "# ========================= Row 1 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Covers dental services (e.g., routine oral examination, fillings, extractions, root canal and other listed items) with itemized limits; Standard reimburses 80% of eligible expenses and Executive reimburses 100%; overall annual limits HK$12,500 (Standard, excluding dentures) and HK$24,000 (Executive, excluding dentures)",
+    "pricing": "Annual premium table (HK$): Standard/Executive — Age 3 or below: 1,954/5,294; Age 4-18: 3,906/10,586",
+    "age": "12 days-12",
+    "customer requirement": "No dental check-up; no individual underwriting at enrolment",
+    "price structure": "Annual payment; premium tiered by plan level and age/sex",
+    "additional informations": "1-year policy term, annual renewal, worldwide coverage, and choice of any registered dentist"
+  },
+  "# ========================= Row 23 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Outpatient medical cover via panel network in Hong Kong, designated Mainland GBA cities and Macau: GP face-to-face/online consultations (with medication delivery), Chinese medicine; subject to policy-year visit limits, co-payment and coinsurance",
+    "pricing": "Annual premium table (HKD, effective 14 Apr 2025) shows listed figures from HK$2,480/year to HK$17,500/year (including HK$5,380, HK$6,480, HK$3,050, HK$6,600, HK$8,100 and HK$4,800).",
+    "age": "15 days-76",
+    "customer requirement": "No health underwriting/medical exam; for Family Plan A/B, policy owner and insured must be the same person",
+    "price structure": "Annual premium payment in HKD; premiums are non-guaranteed and may be adjusted at renewal (age, claims, medical inflation, persistency, expenses)",
+    "additional informations": "Online GP co-payment is waived when no drug prescription is issued; Family Plan A/B uses one premium for unlimited family members; psychiatric consultation has 180-day (mental illness) and 2-year (perinatal depression) waiting periods"
+  },
+  "# ========================= Row 24 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "International medical insurance (Platinum) for inpatient/daypatient hospitalisation, accommodation, cancer and mental health; annual overall maximum paid in full. Optional International Vision & Dental adds 1 eye test per period, eyewear up to US$310/€245/£200, and dental cover up to US$5,500/€4,300/£3,50",
+    "pricing": null,
+    "age": "18",
+    "customer requirement": "standalone individual policy; beneficiaries must be expatriates",
+    "price structure": "1-year renewable term; premiums age-based and adjusted each renewal",
+    "additional informations": "vision/dental waiting periods: 3 months (preventative/routine), 12 months (major restorative), 18 months (orthodontic); 21-day free-look; prior authorisation needed for inpatient/daypatient"
+  },
+  "# ========================= Row 25 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Hospital and surgical cover with a shared HK$5,000,000 annual benefit pool per policy; full cover at Bupa network providers in Hong Kong (subject to terms) or non-network reimbursement at 80% (Plan A, 20% coinsurance) / 100% (Plan B, 0% coinsurance); area of cover: Asia, Australia and New Zealand",
+    "pricing": "Hospital and Surgical discounted premium per person (age 41): single enrolment Plan A HK$11,845/year (HK$1,066/month), Plan B HK$13,474/year (HK$1,213/month); family enrolment discounts give age-41 Plan A HK$10,068/year (2 persons) or HK$9,476/year (3+ persons). Optional benefits",
+    "age": "15 days-80",
+    "customer requirement": "Policy holder age 18+; insured must be the policy holder or eligible family member (spouse, child, grandchild, parents, grandparents, siblings, domestic partner, o",
+    "price structure": "Age-banded per-person premiums; annual or monthly payment",
+    "additional informations": "No medical examination is required at application (Bupa may request a check-up report for overweight/underweight BMI or age 65+ at enrolment; guaranteed lifetime renewal; medical card subject to eligibility requirements"
+  },
+  "# ========================= Row 27 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Annual scaling/polishing (1x/year); unlimited oral exam, dental consultation, intra-oral X-ray, emergency dressing/abscess drainage, office-hours emergency consultation, and pain/infection drug therapy; fillings, simple extraction, orthodontic/specialist/other treatments at preferential rates",
+    "pricing": "HK$400 per person scheme fee; additional treatments at HKU preferential rates (e.g., filling HK$450-1,350, extraction HK$630-900, implant HK$18,000-27,000).",
+    "age": null,
+    "customer requirement": "HKU student/staff/retiree applicants; submit application form with HKU staff/student card copy (retirees quote staff no.)",
+    "price structure": "Flat per-person scheme fee paid in full regardless of join date; no refund for mid-year termination",
+    "additional informations": "Voluntary enrollment; eligible persons can join anytime; service starts after confirmation"
+  },
+  "# ========================= Row 28 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Dental care plan with appointment-based services, including dental cleaning; cleaning slots are limited and handled first-come-first-served",
+    "pricing": "HK$480/year (Plan K21)",
+    "age": null,
+    "customer requirement": "For HKU staff; family members can also join (no limit on number)",
+    "price structure": "One-time full annual fee; no full or pro-rata refund",
+    "additional informations": "Membership term is fixed from 2025-09-01 to 2026-08-31; application processing takes about 10 working days, and booking should be made after SMS activation confirmation"
+  },
+  "# ========================= Row 29 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Preventive and basic restorative care: oral check-up/hygiene instruction, intra-oral X-ray (when needed), fluoride, fillings for new caries (anterior composite/posterior amalgam),; scaling & polishing is 1 visit (K21) or 2 visits (K12); excludes specialist care, wisdom/surgical/orthodontic extractions, and OPG/CT/large radiographs",
+    "pricing": "HK$400/year (K21) or HK$570/year (K12) per member for 1 Sep 2025-31 Aug 2026.",
+    "age": null,
+    "customer requirement": "CUHK student/staff/retiree membership type; eligible dependents may enroll",
+    "price structure": "Fixed annual fee per member by plan tier (K21/K12), paid in full upfront; no prorated or mid-year refund",
+    "additional informations": "Plan valid until 31 Aug 2026 (apply by 31 May 2026); enrollment takes about 10 working days; scaling booking should be made at least 2 months before expiry"
+  },
+  "# ========================= Row 30 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "1x scaling & polishing; unlimited oral check-up/hygiene instruction, intra-oral X-ray (if needed; excludes OPG), fluoride varnish, caries fillings, simple extraction (excluding wisdom/surgical/orthodontic), office-hour temporary pain relief, non-surgical abscess drainage, and r",
+    "pricing": null,
+    "age": null,
+    "customer requirement": "EdUHK students",
+    "price structure": null,
+    "additional informations": "Coverage valid until 2026-08-31; unused items forfeited with no extension; >15 minutes late counts as no-show and deducts one scaling/polishing visit"
+  },
+  "# ========================= Row 31 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Campus Student Dental Clinic services under the Student Dental Benefit Scheme for full-time students; appointment-based dental care during consultation hours, with emergency routing after hours",
+    "pricing": "HK$30 penalty per 15-minute dentist appointment or per 30-minute hygienist appointment if cancelled with less than 24 hours' notice.",
+    "age": null,
+    "customer requirement": "Eligible PolyU full-time students; one-month service grace period after graduation eligibility confirmation",
+    "price structure": "Per-visit charge schedule (in scheme leaflet) plus fixed HK$30 late-cancellation/no-show penalty by appointment block",
+    "additional informations": "booking via phone, online, or in person; clinic at Room GH020, Core H"
+  },
+  "# ========================= Row 34 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Oral health education, oral examination, preventive treatment, basic restorative treatment, and emergency service during designated office hours; enrolled students receive one year of preventive/basic care",
+    "pricing": "HK$36/year (Eligible Person); HK$835/year (Non-eligible Person) (effective 1 Sep 2023).",
+    "age": "17",
+    "customer requirement": "Primary school students under 18 as at 1 September; enrolment via participating-school joint form/online or individual clinic enrolment",
+    "price structure": "Annual per-student flat fee tiered by Eligible Person vs Non-eligible Person status",
+    "additional informations": "Joint enrolment with Student Health Service; payment request SMS starts in October; application is accepted only after full payment and fees are non-refundable"
+  },
+  "# ========================= Row 35 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Government-subsidised NGO dental care: every 180 days oral health assessment, X-ray, pain-relief medication, filling/extraction, and bridge/crown removal; every 365 days scaling and root canal treatment; removable dentures every 5 years or more (for participants with fewer than 20 teeth), subject to dentist assessment",
+    "pricing": "Category A: administration fee fully subsidised for 180/365-day services; HK$500/set for removable dentures. Category B: oral assessment/X-ray/pain-relief medication free",
+    "age": null,
+    "customer requirement": "Valid Hong Kong identity card holder; enrolled in eHealth",
+    "price structure": "Government-subsidised administration/co-payment model with Category A vs Category B tiers; charges are service-based (per visit/per tooth/per bridge/per crown/per denture set) with 180-day, 365-day, and 5+ year quotas",
+    "additional informations": "participants pay administration/co-payment fees directly to participating NGOs"
+  },
+  "# ========================= Row 39 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Two options: K12 (2 annual scaling/cleaning visits) or K21 (1 annual scaling/cleaning visit), plus oral exam, needed intraoral X-rays/fluoride, caries-related fillings, simple extr; excludes specialist care, deep scaling, major imaging, wisdom/surgical/orthodontic extractions, and non-caries/cosmetic fillings",
+    "pricing": "HK$575/year (Plan K12, 2 cleanings); HK$470/year (Plan K21, 1 cleaning).",
+    "age": null,
+    "customer requirement": "For eligible HKFLU affiliated member-union members and their family (parents, spouse, children, siblings); family enrollment requires the member to join a plan",
+    "price structure": "Fixed annual fee paid in full; non-refundable",
+    "additional informations": "2021-2022 cycle: apply from 2021-05-01 and complete services by 2022-04-30; registration takes about 14-15 working days; late-cancel/no-show rules apply (24-hour notice"
+  },
+  "# ========================= Row 41 =========================": {
+    "Plan_category": "dental",
+    "Coverage_Description": "Bi-annual exam and scaling/polishing; unlimited consultations, intra-oral X-rays, decay-related fillings, simple extractions, office-hours emergency consultations/dressings, and medication; procedures requiring monitored anaesthetic care are excluded",
+    "pricing": "HK$680 per enrolled member for 1 Apr 2025-31 Mar 2026 (enrollment form premium).",
+    "age": null,
+    "customer requirement": "Swire group staff/pensioners and eligible family members (spouse, children, parents, siblings); enrollment form, staff card copy, and ID/relationship proof when requested",
+    "price structure": "Flat per-member premium; non-covered services offered at 10%-40% discount",
+    "additional informations": "Advance appointment required; premium is non-refundable; application processing about 5 working days"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Group medical coverage with inpatient/surgery (HS0-HS3), including room & board, surgery, ICU and related hospital expenses; includes overseas accident hospitalization (+50% inpatient/surgery limits), optional outpatient (OP0-OP3) and medical supplemental (MM0-MM3), plus DT1 basic dental care",
+  "pricing": "Hospital & surgical annual premium (per member): employee HK$586-11,176, spouse HK$791-15,088, child HK$791-3,620 (by age/HS level); optional MM HK$433-1,643/year, OP HK$904-6,064/year; DT1 dental HK$460/member/year.",
+  "age": "15 days-69",
+  "customer requirement": "Company with >=3 employees; all eligible full-time employees must join hospital & surgical cover",
+  "price structure": "Annual premium prepaid by employer; per-member premium is age-band + plan-level based",
+  "additional informations": "Non-guaranteed renewal; employee/spouse entry up to age 65, renewable to 69 subject to yearly underwriting at age 65-69; children eligible to <19 (or <23 if full-time student)"
+}

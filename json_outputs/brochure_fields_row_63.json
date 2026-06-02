@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Lifetime hospital cash plan: daily hospitalization cash up to 0.1% of sum assured (max US$250/day, max 90 days per hospitalization), ICU cash extra up to US$250/day (max 90 days),",
+  "pricing": null,
+  "age": "15 days-65",
+  "customer requirement": "Issue age by premium term: 1-65 (5/10-year), 1-60 (15-year), 1-55 (20-year); smoker limits: <=55 (5/10/15-year) and <=50 (20-year)",
+  "price structure": "Premium rate non-guaranteed; set by risk class (age/sex/smoking) and pay term",
+  "additional informations": "Standalone basic plan; policy currency USD; guaranteed cash value plus non-guaranteed terminal bonus"
+}

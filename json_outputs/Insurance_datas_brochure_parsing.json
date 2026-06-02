@@ -1,0 +1,569 @@
+{
+  "# ========================= Row 55 =========================": {
+    "Plan_category": "critical illness",
+    "Coverage_Description": "Multi-claim critical illness and life coverage up to 1100% of basic sum assured; covers 127 conditions (childhood, early-stage, severe and ICU), with severe illness extension to age 86 and death cover after a severe CI claim",
+    "pricing": null,
+    "age": "15 days-46",
+    "customer requirement": "Medical underwriting; for 挚爱宝, applicant must be pregnant at least 20 weeks at application",
+    "price structure": "Premium is risk-based (age, sex, smoking, nationality, residence) and depends on policy currency and payment term; rates may be reviewed annually",
+    "additional informations": "Participating basic plan; HKD/USD currency; premium payment terms 5/10/15/20/25 years (挚爱宝: 10-year)"
+  },
+  "# ========================= Row 56 =========================": {
+    "Plan_category": "critical illness",
+    "Coverage_Description": "117种受保病况；严重疾病赔付当时投保金额100%，其后可就癌症/心脏病发作/中风作额外索偿并保障至86岁，另设持续癌症治疗额外保障；总重大疾病保障最高660%。",
+    "pricing": "US$3,540/year（33岁、非吸烟、20年缴费、保额US$100,000示例）；US$3,867/year（38岁、非吸烟、20年缴费、保额US$100,000示例）",
+    "age": "15 days-65",
+    "customer requirement": "受保人投保时须满15天并通过核保；投保年龄上限随缴费年期而定",
+    "price structure": "风险分级定价（年龄/性别/吸烟习惯）+ 缴费年期（10/15/20/25年）；保险费率可于每个保单周年日检讨调整",
+    "additional informations": "股东全资分红计划（可获非保证特别红利）；货币可选港元/美元；可在指定条件下转换为具现金价值寿险且毋须提供健康资料"
+  },
+  "# ========================= Row 57 =========================": {
+    "Plan_category": "critical illness",
+    "Coverage_Description": "Covers 56 critical conditions with lifelong protection; pays 100% of current sum assured as a one-off CI benefit plus non-guaranteed terminal bonus (from policy year 5). Key conditions include 90-day waiting period for non-accidental ca",
+    "pricing": "US$1,897/year (illustrative: age 40, non-smoker status not stated, US$100,000 sum assured, premium payment to age 66)",
+    "age": "15 days-65",
+    "customer requirement": "Minimum issue age 15 days; CI claim requires insured to survive to diagnosis",
+    "price structure": "Premium based on risk class and selected payment term (to age 66 or 86); insurer may review and adjust rates at each policy anniversary",
+    "additional informations": "Participating plan with non-guaranteed terminal bonus; optional 5% annual sum-assured increase up to 200% of initial amount; optional riders (severe cancer lump sum, multi-claim for cancer/heart attack/stroke)"
+  },
+  "# ========================= Row 58 =========================": {
+    "Plan_category": "critical illness",
+    "Coverage_Description": "女性疾病、原位癌及指定医疗手术保障；女性疾病/原位癌一次性赔付，手术费用实报实销；计划累计赔偿上限为投保额200%，可附加妊娠并发症及先天疾病保障。",
+    "pricing": null,
+    "age": "19-55",
+    "customer requirement": "女性受保人；须附加于基本计划",
+    "price structure": "按投保年龄、风险级别及货币厘定；非保证保费，保单周年日可调整；额外保障需额外保费",
+    "additional informations": "每5年无索偿奖赏（上一保单年度已缴保费30%，至20周年）；每2年身体检查保障至76岁；女性疾病/手术90天及额外保障300天等待期"
+  },
+  "# ========================= Row 59 =========================": {
+    "Plan_category": "critical illness",
+    "Coverage_Description": "为曾患癌症/原位癌康复者提供保障；如再度确诊受保严重癌症可获一次性100%投保额赔偿，且曾受癌症影响器官仍可受保。",
+    "pricing": "示例（40岁、保额HK$500,000、年缴）：第1-5年保费HK$10,600、11,125、11,670、12,220、12,775；第6年折扣前HK$13,340，15%折扣后HK$11,339；第11年折扣前HK$16,245，20%折扣后HK$12,996",
+    "age": "19-65",
+    "customer requirement": "一生仅曾确诊1次原位癌或第1-3期癌症；完成建议治疗且过去12个月（原位癌）/36个月（第1-3期癌症）无相关治疗；非吸烟、无饮酒习惯；过去12个月至少1次覆诊；无可疑癌症病征及无待检结果",
+    "price structure": "港元/美元；按年续保至75岁；保费按续保年龄及风险级别（如性别、国籍、居住地、核保级别）调整；第6-10个保单年度续保折扣15%，第11年起20%",
+    "additional informations": "设恩恤身故赔偿US$2,500/HK$20,000（同一受保人仅1次）；严重癌症赔偿后另有复康居家护理保障，金额为投保额2.5%；设90天等候期"
+  },
+  "# ========================= Row 60 =========================": {
+    "Plan_category": "term life",
+    "Coverage_Description": "Covers 59 conditions (56 severe + 3 early-stage); pays 100% sum assured once for severe critical illness or death, and early-stage critical illness pays 25% of sum assured (max US$50,000/HK$400,000) with sum assured reduced afterw",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "Insured must meet entry-age band; rider application requires insured to be at least 15 days old",
+    "price structure": "Guaranteed level premium within each 5-year renewal period; renewable to age 81 with rate adjustment at renewal by risk class",
+    "additional informations": "Can convert before age 66 to a designated cash-value whole life plan without health proof if no claim has been made"
+  },
+  "# ========================= Row 61 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Lifetime critical illness plan covering 74 conditions (56 severe + 18 early-stage); severe CI pays up to 100% sum assured once, early-stage CI allows up to 3 claims (up to 25%/20% each), plus ICU benefit up to 20% once (10% if ICU stay outside Hong Kong)",
+    "pricing": "US$2,197/year (illustrative: age 30, non-smoker, 20-year premium term, US$100,000 sum assured); 10-year total premium in example US$19,773 (excludes levy).",
+    "age": "15 days-65",
+    "customer requirement": "Insured must be at least 15 days old at application",
+    "price structure": "Risk-based premium by age/sex/smoking/nationality + premium term + policy currency (HKD/USD); insurer may review rates at each policy anniversary for risk class",
+    "additional informations": "Participating plan with guaranteed cash value from policy year 3 and non-guaranteed terminal bonus from year 5; optional inflation benefit increases original sum assured 5% yearly up to 200%; includes international second medical opinion/overseas medical concierge service"
+  },
+  "# ========================= Row 62 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Lump-sum cancer protection: 100% sum insured for covered cancer; 25% for covered early cancer (carcinoma in situ/early thyroid or prostate), with early-claim amount reducing subsequent cancer benefit; HK$20,000/US$2,500 death benefit if no cancer claim paid",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "Health declaration required; no medical exam",
+    "price structure": "Yearly renewable premium; rates can be adjusted at each policy anniversary by risk class (e.g., age, sex, smoking)",
+    "additional informations": "Guaranteed renewal to age 81 (age next birthday); available as a standalone basic plan; policy currency HKD or USD"
+  },
+  "# ========================= Row 63 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Lifetime hospital cash plan: daily hospitalization cash up to 0.1% of sum assured (max US$250/day, max 90 days per hospitalization), ICU cash extra up to US$250/day (max 90 days),",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "Issue age by premium term: 1-65 (5/10-year), 1-60 (15-year), 1-55 (20-year); smoker limits: <=55 (5/10/15-year) and <=50 (20-year)",
+    "price structure": "Premium rate non-guaranteed; set by risk class (age/sex/smoking) and pay term",
+    "additional informations": "Standalone basic plan; policy currency USD; guaranteed cash value plus non-guaranteed terminal bonus"
+  },
+  "# ========================= Row 64 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Comprehensive medical cover from prevention, diagnosis, treatment to rehabilitation; plan options cover Greater China / Global (excluding US) / Global, with eligible inpatient room classes by region; annual limit HK$5,000,000-HK$30,000,000 and lifetime limit HK$24,000,000-HK$70,000,000",
+    "pricing": null,
+    "age": "15 days-69",
+    "customer requirement": "One active policy per insured; can be bought as basic plan or as rider (rider must attach to a basic plan)",
+    "price structure": "Lifetime renewable annually; premium rates are non-guaranteed and adjusted at renewal based on risk class (e.g., age, deductible, plan level, nationality/residence), cla",
+    "additional informations": "Optional outpatient rider \"门诊宝\" (Greater China/Hong Kong/Macau) with annual limit HK$30,000; insurer may revise terms with 30 days’ prior notice before renewal; for Plan 4, renewal guarantee may cease if insured stayed in the US >=183 days in past 12 months and refuses switch to Plan 3"
+  },
+  "# ========================= Row 65 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "覆盖全球合资格医疗费用：住院、外科手术、订明非手术癌症治疗、意外后24小时内紧急门诊、住院前后门诊；按普通/半私家/私家病房级别设分项赔偿限额，可自选额外医疗保障（经典80%，网络100%超额赔付，受总限额约束）。",
+    "pricing": null,
+    "age": "15 days-75",
+    "customer requirement": "附加计划（投保时须附加于基本计划）；受保人于签署申请时须最少出生满15天",
+    "price structure": "保证每年续保；保费率非保证并按年调整（按年龄、性别、病房级别及是否附加额外医疗计划等风险级别）",
+    "additional informations": "连续36个月无索偿可获前1年保费15%无索偿奖赏；提供医疗费用直付、绿色医疗通道、第二医疗意见/海外医疗礼宾、24小时全球紧急支援、智安排预设保单服务"
+  },
+  "# ========================= Row 66 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "全球（美国除外）住院及外科手术医疗保障；每年最高14,000,000港元、终身最高60,000,000港元；涵盖住院前后门诊、非手术癌症治疗等合资格费用；美国仅保障因意外导致的医疗。",
+    "pricing": null,
+    "age": "15 days-69",
+    "customer requirement": "可独立投保或作为附加保障；每位受保人限持1份；申请须经核保。",
+    "price structure": "按年续保；保费率非保证，续保时按年龄、自付额、计划级别、国籍、居住国家等因素调整；计划选项为100%保障（自付额0/10,000/20,000/50,000港元）或90%保障（不设自付额）。",
+    "additional informations": "癌症确诊后可获12个月保费豁免（合资格家庭成员同享）；提供住院/日间手术医疗费用直付、绿色医疗通道、第二医疗意见及24小时全球紧急支援；可于50/55/60/65岁时1次免体检下调自付额或更改计划。"
+  },
+  "# ========================= Row 67 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "住院期间按投保额支付每日住院现金；深切治疗病房赔偿双倍；同一受伤/疾病每次住院最高赔偿1,000日（保障地区外赔偿减半且每次最高90日）。",
+    "pricing": null,
+    "age": "15 days-60",
+    "customer requirement": "须作为附加保障并附加于基本计划投保",
+    "price structure": "按年龄保费率；每5个保单周年可续保；续保保费按当时年龄及适用保费率厘定，并可于保单周年检讨",
+    "additional informations": "疾病30日等待期；不保既有疾病；续保上限至75岁（下次生日年龄）或基本计划期满"
+  },
+  "# ========================= Row 68 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Cancer medical reimbursement for carcinoma in situ and cancer, covering diagnostic tests, hospitalization/outpatient treatment, chemotherapy/radiotherapy/targeted/hormonal therapy,; per covered cancer limit up to HK$2,000,000 and lifetime limit up to HK$6,000,000 (plan-dependent), with guaranteed lifetime renewal",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "must be attached to a basic plan; underwriting required",
+    "price structure": "3 plan tiers; premiums in HKD/USD",
+    "additional informations": "90-day waiting period; excludes pre-existing cancer/related conditions; includes annual discounted cancer screening (1 test/year) and second medical opinion service (max 3 times per plan)"
+  },
+  "# ========================= Row 69 =========================": {
+    "Plan_category": "term life",
+    "Coverage_Description": "意外或疾病导致功能障碍并连续90日未能进行≥3项日常活动，经注册医生书面证明后，按月赔付固定金额（US$350/650/1,250）；保障支付期可选5年或终身，保证续保至100岁。",
+    "pricing": null,
+    "age": "46-75",
+    "customer requirement": "须附加于指定分红人寿保险基本计划",
+    "price structure": "美元保单；保费按续保时年龄及当时保费率厘定，保费率非保证并可于每个保单周年按风险级别统一调整",
+    "additional informations": "赔偿支付期间可豁免保费；每2年1次免费医疗检查；受保人外游或移居外地仍可享保障"
+  },
+  "# ========================= Row 70 =========================": {
+    "Plan_category": "term life",
+    "Coverage_Description": "为46-75岁父母提供人寿保障（保证续保至100岁）及长期护理保障（连续90日未能进行≥3项日常活动后按级别每月给付US$1,250/650/350；给付期间豁免保费）；可附加住院现金及终身医疗保障。",
+    "pricing": null,
+    "age": "46-75",
+    "customer requirement": "可单独投保；附加保障须附加于基本计划；申请须经核保",
+    "price structure": "美元保单；续保保费按年龄与当时费率厘定；人寿及住院现金每5个保单周年可检讨费率，长期护理每个保单周年可检讨费率；附加医疗需额外保费",
+    "additional informations": "66岁前可免健康证明转换为具现金价值新寿险；第2个保单周年起每2年1次身体检查（至100岁）；设21日冷静期"
+  },
+  "# ========================= Row 71 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Global (excluding non-accidental treatment in the U.S.) private-room medical reimbursement with annual limit US$3,750,000/HK$30,000,000 and lifetime limit US$8,750,000/HK$70,000,00; covers hospitalization, surgery, non-surgical cancer treatment, pre/post-hospital care and rehabilitation, with guaranteed lifetime renewal",
+    "pricing": null,
+    "age": "15 days-69",
+    "customer requirement": "insured must be at least 15 days old at application; outpatient rider only attachable when applying for this plan",
+    "price structure": "HKD/USD policy; annual renewable and non-guaranteed premium rates adjusted by risk class (e.g., age, deductible, nationality/residence)",
+    "additional informations": "room class above private room reimbursed at 25%; includes direct billing service, second medical opinion/overseas medical concierge, and mainland China green channel service"
+  },
+  "# ========================= Row 72 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Standard health check-up (physical exam, blood/urine/stool tests, X-ray/ECG) with optional cancer/female/hepatitis B/H. pylori tests; covers eligible follow-up tests for specified abnormal findings and CBC for 2 direct family members if thalassaemia suspected",
+    "pricing": "Standard Plan HK$1,850; optional items: Total PSA HK$640, Pap Smear HK$470, Breast Ultrasound HK$1,420, CA72.4 HK$990, EBV IgA HK$850, AFP HK$490, CEA HK$700; Female Plan HK$2,830; Hepatitis B Tests HK$490; Helicobacter Pylori Test HK$1,080.",
+    "age": "18-70",
+    "customer requirement": "Hong Kong SAR resident; covered person aged 18-70 at application",
+    "price structure": "Fixed premium by selected package/add-ons; optional items must be purchased with Standard Plan",
+    "additional informations": "15-day waiting period; each eligible follow-up test payable once per insured across policy and renewals"
+  },
+  "# ========================= Row 73 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Covers eligible medical expenses for cancer (including carcinoma-in-situ), heart attack, and stroke, including diagnosis, inpatient/outpatient treatment, reconstruction, and post-t; per covered disease limit HK$500,000-HK$3,000,000 and lifetime limit HK$3,000,000-HK$18,000,000 (plan-dependent)",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "Insured must be at least 15 days old at application; Plan 1 is rider-only, Plans 2-4 can be basic or rider",
+    "price structure": "4 plan tiers with different benefit limits; premium is renewable and adjusted at renewal by risk class (e.g., age/sex/smoking/plan level/nationality/residency), not guaranteed level",
+    "additional informations": "Global coverage; ward class options (general ward or semi-private); includes value-added preset policy instruction service (\"PRUCare Smart Cover\"/\"智安排\")"
+  },
+  "# ========================= Row 74 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "Medical top-up reimbursement plan paying 90% of eligible medical costs above deductible or other medical-plan reimbursement (whichever is higher), covering inpatient care, surgery,; annual benefit up to US$125,000/HK$1,000,000 by ward level, with lifetime cap up to US$375,000/HK$3,000,000",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "Rider only (must be attached to a basic plan)",
+    "price structure": "Annual renewable, non-guaranteed premium; rates reviewed at renewal by risk class (e.g., age/sex/ward class/deductible) and medical-cost factors",
+    "additional informations": "Guaranteed lifetime renewal; guaranteed conversion at ages 50/55/60/65 to a Prudential-designated no-deductible reimbursement medical plan without new underwriting/waiti; value-added services include direct billing, Mainland Green Channel, second medical opinion/overseas concierge, preset policy instruction (\""
+  },
+  "# ========================= Row 75 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "全球医疗保障（精神科仅限香港），涵盖住院、外科手术、订明诊断成像、癌症治疗及相关门诊；每年赔偿上限420,000港元，终身保障限额不设上限。",
+    "pricing": null,
+    "age": "15天-80岁",
+    "customer requirement": "香港居民；须通过核保",
+    "price structure": "按年缴费；保费非保证，续保时按受保人性别、实际年龄及计划类型调整",
+    "additional informations": "VHIS认可标准计划（S00026-01-000-02）；保证续保至100岁；合资格保费可税务扣除（每名受保人每年上限8,000港元）"
+  },
+  "# ========================= Row 76 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "VHIS-certified medical rider reimbursing eligible medical expenses worldwide (psychiatric treatment in Hong Kong only), with 3 ward levels, itemized annual benefit limits but no ov; optional Extra Medical Plan covers excess eligible costs at 100% (network) or 80% (non-network)",
+    "pricing": null,
+    "age": "15 days-80",
+    "customer requirement": "Hong Kong residents; must be attached to a basic plan",
+    "price structure": "Annual renewable, non-guaranteed premium; adjusted at renewal by age, sex, ward level, and Extra Medical Plan option",
+    "additional informations": "Qualified premium tax deduction up to HK$8,000 per insured per year; 15% no-claim discount after 36 consecutive claim-free months; can switch to VHIS Standard Plan at renewal without re-underwriting"
+  },
+  "# ========================= Row 77 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "VHIS认可医疗计划；住院至康复合资格医疗费用，主要医疗项目不设分项限额并可全数赔偿；每年保障限额HK$12,000,000、终身限额HK$56,000,000；保障地区可选亚洲（含澳洲/新西兰）或全球（美国除外），保证终身续保。",
+    "pricing": null,
+    "age": "15天-80岁",
+    "customer requirement": "香港居民；投保须核保",
+    "price structure": "终身保障/终身缴费；按年续保，保费会按实际年龄、保障地域、计划类型及自付费调整；自付费选项：HK$0/20,000/50,000/96,000（或US$0/2,500/6,250/12,000）。",
+    "additional informations": "未知投保前已有病症首30天不赔、第31天起100%赔偿；指定妊娠并发症需保单生效满300天；合资格保费可申请税务扣除（每名受保人每年上限HK$8,000）。"
+  },
+  "# ========================= Row 78 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "涵盖住院、日间手术、订明诊断成像、订明非手术癌症治疗及透析等医疗费用；可选普通/半私家/私家病房，全球保障（精神科仅限香港）；各项目设赔偿限额但不设每年及终身保障限额；额外医疗计划可赔偿超出项目限额的合资格费用80%。",
+    "pricing": "标准保费表（2025年10月起生效）按年龄、性别、病房级别厘定；年缴HKD示例（下次生日年龄1）：普通病房男5,768.17/女4,467.88，半私家男10,367.80/女7,915.39，私家男20,404.67/女15,899.51",
+    "age": "15 days-80",
+    "customer requirement": "香港居民",
+    "price structure": "标准保费按年缴基准；续保时按性别、实际年龄及病房级别每年调整；非年缴倍数：半年0.5150、季缴0.2620、月缴0.0892。",
+    "additional informations": "VHIS认可灵活计划；合资格保费税务扣除上限每名受保人每年HK$8,000；保证终身续保；提供医疗费用直付、绿色医疗通道及24小时全球紧急支援等增值服务。"
+  },
+  "# ========================= Row 79 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "China-trip protection with direct billing at designated hospitals; medical expenses up to HK$500,000/event (outpatient HK$200/day, 10 visits/year; Hong Kong follow-up within 3 months up to HK$50,000), personal accident HK$500,000, kidnapping death HK$100,000, personal liability HK$1,000,000, compassionate transfer HK$500, IDD",
+    "pricing": "HK$680/year (annual premium); 10% first-year premium discount for existing PRUChoice Travel – Annual Cover customers.",
+    "age": "18-70",
+    "customer requirement": "Permanent Hong Kong resident with valid HKID and valid China Re-entry Permit/Card; normally resides in Hong Kong",
+    "price structure": "annual flat premium",
+    "additional informations": "Renewable up to age 75; coverage per trip up to 120 days with unlimited trips in policy period; 15-day waiting period for Section 1 medical expenses (except accident)"
+  },
+  "# ========================= Row 80 =========================": {
+    "Plan_category": "health",
+    "Coverage_Description": "90-day relocation protection covering overseas medical (hospitalisation/surgery/outpatient), personal accident (death/disability), mental care after covered traumatic events, famil",
+    "pricing": "HK$1,300 (Basic, applicant only); HK$2,300 (Premier, applicant only); HK$3,600 (Basic, applicant & family); HK$6,300 (Premier, applicant & family).",
+    "age": null,
+    "customer requirement": "Applicant must be an insured person; application signer age 18+",
+    "price structure": "Single premium for a 90-day policy; tiered by plan level (Basic/Premier) and insured group (individual/family)",
+    "additional informations": "Excess-free policy; free 90-day departure extension if original departure is delayed; COVID-19 medical expenses covered under policy terms (including vaccination requirement)"
+  },
+  "# ========================= Row 81 =========================": {
+    "Plan_category": "accident rider",
+    "Coverage_Description": "3個意外附加保障級別；涵蓋意外身故、斷肢及傷殘（包括完全永久傷殘；較高級別含局部/完全暫時傷殘），部分計劃含意外醫療費用、雙倍賠償及全球緊急支援；意外身故+斷肢+完全永久傷殘合計最高100%保額。",
+    "pricing": null,
+    "age": "15 days-65",
+    "customer requirement": "須附加於基本計劃；申請時受保人最少出生滿15日；更改職業/業務/活動、退休或失業須60日內通知。",
+    "price structure": "每次續保按風險級別（年齡、國籍、居住國家、職業）釐定保費；保費率可於每個保單周年日檢討及調整。",
+    "additional informations": "保障期至所附基本計劃保障期或受保人80歲（下次生日年齡）先到者；冷靜期21日；保費寬限期1個曆月；不保事項包括戰爭、藥物/酒精濫用、自殺/自殘、已存在病症/傷患、懷孕分娩。"
+  },
+  "# ========================= Row 82 =========================": {
+    "Plan_category": "disability waiver rider",
+    "Coverage_Description": "Waives premiums on the attached basic policy if the insured is totally disabled for at least 180 consecutive days due to accident or illness; benefit applies up to age 61",
+    "pricing": null,
+    "age": "16-55",
+    "customer requirement": "must be added to a basic plan at policy application",
+    "price structure": "non-guaranteed premium rates; insurer may review and adjust by risk class at each policy anniversary",
+    "additional informations": "Major exclusions include pre-existing conditions, war/riot, alcohol or drugs (without medical instruction), suicide/self-harm, criminal acts; terminates at earliest death, 1-month premium default, base plan termination, or end of coverage term"
+  },
+  "# ========================= Row 83 =========================": {
+    "Plan_category": "disability income",
+    "Coverage_Description": "因意外或疾病致伤残并于30/60/90/180日伸展期后，按保额1/12每月赔偿；局部伤残按收入降幅比例给付（最多24个月）；可选最高赔偿期为意外至65岁且疾病2年/5年，或意外及疾病至65岁；伤残期间豁免后续保费并退回伸展期已缴保费。",
+    "pricing": null,
+    "age": "18-55",
+    "customer requirement": "18-55岁全职工作人士",
+    "price structure": "基本计划币种USD/HKD，附加保障币种USD；保费率每5年检讨并统一调整",
+    "additional informations": "职业不变可每5年自动续保一次至65岁且无需健康证明；24小时全球保障；赔款期间可选每年6%或按乙类消费物价指数（较低者）递增"
+  },
+  "# ========================= Row 84 =========================": {
+    "Plan_category": "personal accident",
+    "Coverage_Description": "涵盖意外身故、断肢及完全永久伤残（一般最高赔偿为保额100%）；指定严重事故可双倍赔偿；另设意外医疗费用及额外护理（面部重建/心理治疗）赔偿，受条款及上限约束",
+    "pricing": "US$490-7,470/year（约US$43.5-667.5/month；按职业类别1-4、年龄及计划级别）；1-18岁仅计划1：US$810/year（US$72.5/month）",
+    "age": "15 days-65",
+    "customer requirement": "医疗费用赔偿仅适用于香港身份证持有人；职业须属可承保类别（1-4）并于转职后60日内通知；申请受核保决定",
+    "price structure": "10年保费供款；可年缴/月缴；保费按计划级别、投保年龄及职业类别厘定；公司可于每个保单周年统一检讨及调整费率",
+    "additional informations": "毋须医疗检查；保障期至80岁（下次生日年龄）；提供24小时全球紧急支援服务"
+  },
+  "# ========================= Row 85 =========================": {
+    "Plan_category": "term life",
+    "Coverage_Description": "身故赔偿为投保额100%；基本计划下确诊末期疾病且预计12个月内身故可预支100%身故赔偿；保障可续保至受保人86岁（续保期内保费保证不变）",
+    "pricing": "示例：30岁非吸烟、5年续保期、保额HK$5,000,000，年保费HK$5,100；保费折扣HK$1,000后为HK$4,100（仅示例）",
+    "age": "15 days-75",
+    "customer requirement": "附加保障须附加于基本计划；须按时缴付保费",
+    "price structure": "1/5/10/20年续保；续保期内保费固定，续保时按年龄/性别/吸烟习惯等风险级别调整；保额≥HK$2M/4M/8M可获10%/20%/25%保费折扣",
+    "additional informations": "受保人66岁前可免健康证明转换为指定终身寿险；基本计划可预设身故赔偿一次性或每月分期支付"
+  },
+  "# ========================= Row 86 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "一次性缴费终身寿险；提供身故赔偿（第15个保单周年日或66岁前为投保额100%+终期红利(如有)-未偿贷款利息），其后保证身故赔偿每年下调3.3%；含保证现金价值及第15周年日起可能一次性非保证终期红利。",
+    "pricing": "趸交保费示例：US$543,270（投保额US$3,000,000；40岁；非吸烟；说明例子）。",
+    "age": "19-75",
+    "customer requirement": "受限核保规定；按风险级别核保（年龄/性别/吸烟习惯/居住国家）。",
+    "price structure": "趸交（一次性缴费）；美元保单；最低投保金额US$500,000；保费按风险级别厘定。",
+    "additional informations": "可选身故赔偿支付方式（一次性、每月分期或组合）；第3个保单周年日起可委任继任保单持有人；可申请保单贷款（最高保证现金价值80%）；属保单逆按计划合资格寿险计划。"
+  },
+  "# ========================= Row 87 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "终身人寿保障；身故赔偿为100%投保额（含遞增保障增额，如适用）+终期红利（非保证，如有）；具保证现金价值及长期储蓄潜力；20/30年缴可选保障额每年自动+5%至最高200%。",
+    "pricing": "US$3,238/年（示例：30岁，投保额US$200,000，20年缴）；总保费US$64,760（示例）。",
+    "age": "15 days-75",
+    "customer requirement": "受保人签署申请时须至少出生满15天；申请须经核保。",
+    "price structure": "可选躉交、5/10/20/30年缴；费率按投保年龄、性别、吸烟习惯及缴费年期厘定；投保额≥US$20,000可享保费折扣；遞增保障权益需额外保费。",
+    "additional informations": "保单逆按计划合资格寿险计划（申请逆按贷款仍须符合相关资格）；冷静期21天；自杀免责期1年；可申请保单贷款最高达保证现金价值80%。"
+  },
+  "# ========================= Row 88 =========================": {
+    "Plan_category": "universal life",
+    "Coverage_Description": "终身万用寿险；提供身故赔偿及末期疾病预支保障，身故金可一次性或每月分期支付；派息率及部分收费非保证。",
+    "pricing": "整付（趸交）预期保费；一次性额外保费最低US$10,000；保单保费费用为预期保费及一次性额外保费的6%（一次性前期收取）。",
+    "age": "19-75",
+    "customer requirement": "须通过核保；最低保额US$250,000。",
+    "price structure": "保单行政费于保单发出时及首15个保单年度按月从户口价值扣除；保险费按月扣除至受保人120岁后紧接保单周年日前；首15个保单年度退保/部分退保及额外保费存放期首10年提取可收退保费。",
+    "additional informations": "可作公司要员保险并可转换受保人；可于第2个保单年度起申请保单贷款（最高退保价值80%）；冷静期21日。"
+  },
+  "# ========================= Row 89 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "终身身故保障（100%保额）并设额外身故赔偿：首20个保单年度为100%保额，第21-29年每年递减10%，第30年及以后为0%；受保人于指定期间意外身故另赔已缴基本总保费100%（设总额上限）。",
+    "pricing": "未列明固定保费金额；保费按投保年龄、性别、供款年期、货币及吸烟习惯厘定。保额达HK$240,000/US$30,000起可享每1,000保额折扣0.7-6.3；示例：保额HK$800,000、15年供款折扣HK$1,600。",
+    "age": "15 days-65",
+    "customer requirement": "受保人签署申请时最少15日大；投保年龄上限随供款年期而定（45-65岁）；部分附加保障需健康审查。",
+    "price structure": "定期供款（5/10/15/20/25/30年）；保单货币HKD/USD；按风险因素费率并设保额分层折扣。",
+    "additional informations": "分红寿险（归原红利+特别红利，非保证；第3个保单周年日起公布）；可预设身故赔偿一笔过或每月分期支付；属保单逆按计划合资格寿险产品。"
+  },
+  "# ========================= Row 90 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "终身寿险；身故赔偿前期为保额100%（加终期红利并扣除未偿贷款及利息），指定周年日后按年递减至50%，且不低于已缴趸交保费；提供保证现金价值（生效时约为趸交保费85%，不含额外保费）及非保证特别/终期红利。",
+    "pricing": null,
+    "age": "15 days-75",
+    "customer requirement": "受保人下次生日年龄1-75岁；签署申请时须出生满15天；受当前核保规定限制",
+    "price structure": "趸交；保费按风险级别厘定（包括投保年龄、性别、居住国家、核保级别）；6种核保级别",
+    "additional informations": "保单货币：美元；最低保额：1,000,000美元；百岁礼赞：100岁额外发放保额5%（每份保单一次）；可申请最高保证现金价值80%保单贷款"
+  },
+  "# ========================= Row 91 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Participating life-savings plan with guaranteed cash value and non-guaranteed terminal bonus; includes death benefit and one-off severe cancer benefit (40%-60% of nominal amount, subject to age/smoking conditions), with policy value retained",
+    "pricing": "US$19,920/year (illustrative, 5-year pay, nominal amount US$100,000); total premium US$99,600.",
+    "age": "15 days-65",
+    "customer requirement": "Insured must be at least 15 days old at application; underwriting required (simple health declaration, generally no medical exam)",
+    "price structure": "Premium rates are guaranteed and fixed during the premium payment term (5 or 10 years); same rate applies within each term regardless of age/gender/smoking",
+    "additional informations": "Insured change allowed after policy year 1 (subject to underwriting); protection period can extend up to 100 years from policy issue date; policy loan up to 80% of guaranteed cash value"
+  },
+  "# ========================= Row 92 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Single-premium participating life plan with lifetime coverage; guaranteed cash value starts at 85% of single premium and grows with non-guaranteed terminal bonus; death benefit (if no backup insured) is the higher of guaranteed cash value + terminal bonus or 101% of single premium, less outstanding loans",
+    "pricing": "Single premium (lump sum); minimum US$10,000. Illustrated case uses US$1,000,000 single premium.",
+    "age": "15 days-75",
+    "customer requirement": "Insured must be at least 15 days old at application signing; applications/changes are subject to insurer approval and underwriting requirements",
+    "price structure": "Single-pay; nominal amount equals the single premium",
+    "additional informations": "USD policy currency; no medical exam if total single premium is within company administrative limit; bonus lock-in from policy year 10 (10%-50% each time, total up to 50%)"
+  },
+  "# ========================= Row 93 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "终身分红储蓄寿险；身故赔偿为(保证现金价值+归原/终期红利面值)或到期及已缴总保费105%（取高者）加锁定户口款项，扣除未偿贷款；第5个保单周年日前受保人意外身故可获额外100%到期及已缴总保费（上限US$125,000）。",
+    "pricing": "无具体保费示例；名义金额≥US$1,000,000/HK$8,000,000/RMB6,000,000/AUD1,200,000/CAD1,200,000/GBP600,000可享1%保费折扣。",
+    "age": "15 days-80",
+    "customer requirement": "签署申请时受保人须最少出生满15天；若受保人为75岁（下次生日76岁）或以上，须委任1名74岁（下次生日75岁）或以下后备受保人；总年度化保费不超行政规定可免健康资料。",
+    "price structure": "3年或5年缴；每个缴费年期设指定保险费率，同一期内不区分年龄/性别/吸烟习惯/货币/居住地；保费按名义金额计算。",
+    "additional informations": "第3个保单周年日起可每年1次货币转换（USD/HKD/RMB/AUD/CAD/GBP）；第5个保单周年日起可设自主入息（年/月提取，定额或每年1%-10%递增）；可行使开枝散叶选项分拆保单；重大人生事件可申请最长365天保费缓缴；设学术优异奖（每科US$250/350或最高US$"
+  },
+  "# ========================= Row 94 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Child-focused savings life plan with lifelong coverage; one-off guaranteed withdrawable cash of 105% of notional amount at policy year 18; death benefit at least 180% of notional amount (\"挚爱宝\" pays 20% of death benefit if death occurs within 180 days after birth)",
+    "pricing": "US$30,000/year for 5 years (illustrative; total US$150,000, notional amount US$150,000).",
+    "age": "15 days-46",
+    "customer requirement": "Policy owner with insurable interest (parent/grandparent/legal guardian; or expectant parent for prenatal option)",
+    "price structure": "5-year premium term; USD policy",
+    "additional informations": "Academic Excellence Award up to US$5,000; premium waiver on policyholder/spouse death (cap US$125,000); successor policyholder and policy trustee options"
+  },
+  "# ========================= Row 95 =========================": {
+    "Plan_category": "savings",
+    "Coverage_Description": "21/25-year participating savings protection plan with guaranteed annual cash coupon of 5% of sum assured from policy year 2, guaranteed maturity amount (total guaranteed payout 120",
+    "pricing": "US$2,006/year (illustrative: age 25, non-smoker male, US$20,000 sum assured, 21-year term); US$1,834/year (same profile, 25-year term).",
+    "age": "18-35",
+    "customer requirement": "Insured issue age 18-35 (age next birthday); for disability benefit: Hong Kong ID holder and Hong Kong resident",
+    "price structure": "Regular premium by selected term (21 or 25 years), USD-denominated, sum-assured based; volume discount per US$1,000 sum assured: 0.2/0.3/0.4/0.5 at sum assured ≥US$200k/300k/400k/500k",
+    "additional informations": "Guaranteed insurability option (no medical evidence) to add cover up to 2x existing total sum assured (cap US$250,000) upon specified life e; optional riders (medical, accident, premium waiver); non-guaranteed reversionary and special bonuses declared from policy year 3"
+  },
+  "# ========================= Row 96 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "终身寿险储蓄保障；提供保证现金价值及非保证归原/特别红利，并含身故保障（至少已缴基本总保费100%，于首10个保单周年递增至最高135%）及意外身故额外赔偿（第5个保单周年日或缴费期结束前，以较后者为准）。",
+    "pricing": "未列明标准保费金额；每1,000名义金额保费折扣：趸交11.4-30.2（HKD/USD），5年2.4-6.4，8年1.6-4.0，12年1.0-3.0；例：名义金额HK$400,000的趸交折扣HK$7,920。",
+    "age": "15 days-75",
+    "customer requirement": "签署申请时受保人最少15天大；可按行政规定免体检；部分附加保障需健康审查",
+    "price structure": "single/5-year/8-year/12-year premium payment; HKD/USD",
+    "additional informations": "第1个保单年度后可更换受保人；可申请保单贷款最高达保证现金价值+归原红利现金价值的80%；子女可获一次学术优异奖"
+  },
+  "# ========================= Row 97 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "儿童终身储蓄寿险；5/10年缴，提供保证可支取现金（教育储蓄保：18-21岁各25%名义金额；梦想储蓄保：第20个保单周年一次性100%），并含保证现金价值及非保证终期红利；身故赔偿为较高者（保证现金价值+终期红利，或已缴基本总保费105%减已派发保证可支取现金）。",
+    "pricing": "示例：名义金额US$75,000，5年年缴US$15,000（总保费US$75,000）；保费折扣（每US$1,000名义金额）：5年缴1.4/1.8/2.1（>=US$100,000/150,000/200,000），10年缴0.8/1.1/1.2。",
+    "age": "15 days-15",
+    "customer requirement": "一般毋须健康资料；若同一受保人过去24个月总年度化保费>US$500,000则需健康资料",
+    "price structure": "保证固定保费率；5年或10年缴；教育储蓄保按投保年龄与缴费年期定价，梦想储蓄保按缴费年期定价；美元保单",
+    "additional informations": "可于受保人21岁时行使加保选择权（免健康资料，最高现有名义金额3倍；同一受保人系列总投保额上限US$500,000）；可附加意外/危疾/医疗保障"
+  },
+  "# ========================= Row 98 =========================": {
+    "Plan_category": "储蓄寿险",
+    "Coverage_Description": "第2个保单周年日起每年发放投保额5%保证现金回赏；期满保证利益连同现金回赏合计为投保额120%，并可享非保证红利；受保人身故赔偿为100%保额加红利及累积回赏（扣除未偿贷款）。",
+    "pricing": "示例（30岁、非吸烟、投保额20,000美元）：21年期每年保费2,009美元；25年期每年保费1,841美元。",
+    "age": "16-54",
+    "customer requirement": "预支伤病保障适用于持有香港身份证并在香港居住的受保人",
+    "price structure": "保费供款期=保障年期（21或25年）；每年5%保证现金回赏可提取/积存生息/存入保费储蓄户口；保额≥200,000美元可享每1,000美元保额0.2-0.5美元保费折扣",
+    "additional informations": "第3个保单周年日起公布归原红利及特别红利（非保证）；分红基金不少于90%可分配利润分配予保单持有人；可选附加保障（医疗、意外、保费豁免）"
+  },
+  "# ========================= Row 99 =========================": {
+    "Plan_category": "savings",
+    "Coverage_Description": "Guaranteed 5% cash coupon each year from policy year 2; guaranteed maturity components total 120% of sum assured over a 21/25-year term, with potential non-guaranteed bonuses; death benefit pays sum assured plus declared bonuses and accumulated cash coupons (less debts), with 50%/25% sum-assured reduction if death occurs before ANB 2 / before ANB 3",
+    "pricing": "Illustration (insured ANB 1, sum assured US$20,000): US$2,000/year (21-year term) or US$1,828/year (25-year term).",
+    "age": "15 days-15",
+    "customer requirement": "child insured (ANB 1-15); insured must be at least 15 days old at application",
+    "price structure": "regular premium; pay term 21 or 25 years",
+    "additional informations": "participating policy (policyholders share at least 90% of distributable profits); optional riders available (medical, critical illness, accident, payer protection); cash-coupon accumulation interest currently 4% p.a. (non-guaranteed)"
+  },
+  "# ========================= Row 100 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Guaranteed monthly income for 50 years plus non-guaranteed monthly income until policy end; death benefit is the higher of 100% of total premiums paid or 101% guaranteed cash value plus terminal bonus (less outstanding loans); maturity benefit payable at initial insured age 151",
+    "pricing": "US$200,000/year (illustrative case, age 55, 5-year premium payment term).",
+    "age": "15 days-75",
+    "customer requirement": "Insured must be at least 15 days old at application; no health information required if total nominal amount is within the administrative limit",
+    "price structure": "3-year or 5-year pay; designated insurance rate by pay term, same rate across age, gender, smoking status, and residence",
+    "additional informations": "Unlimited insured change, one contingent insured allowed, and policy split option available from policy year 5"
+  },
+  "# ========================= Row 101 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Single-premium participating life plan with guaranteed cash value (starts at 80% of single premium), possible terminal bonus (from year 3), guaranteed monthly income from month 13; death benefit at least 100% of single premium (less outstanding loan/interest); coverage to original insured age 151",
+    "pricing": "Illustration shows US$500,000 single premium; guaranteed monthly income US$420 from month 13, expected non-guaranteed monthly income US$1,271 from month 37.",
+    "age": "15 days-75",
+    "customer requirement": "Underwriting approval; insured must be at least 15 days old at application",
+    "price structure": "USD single-premium (lump-sum); same insurance rate for all ages, genders, smoking status and residence",
+    "additional informations": "Monthly income can be paid out (bank transfer to HKD account or local USD cheque) or accumulated from policy year 11 at non-guaranteed inter; policy loan up to 80% of guaranteed cash value; insured can be changed unlimited times after policy year 1 (subject to rules)"
+  },
+  "# ========================= Row 102 =========================": {
+    "Plan_category": "储蓄型人寿",
+    "Coverage_Description": "第3个保单周年日起每年派发名义金额5%保证可支取现金至100岁；第10/15/20周年各加发10%；另含身故保障、意外身故保障及非保证终期红利。",
+    "pricing": "未列固定保费；名义金额≥US$8,000可享每US$1,000折扣（5年缴: 5.9/8.9/10.4/12.4/15.8；10年缴: 3.2/4.8/5.6/6.7/8.5）；示例：US$50,000名义金额(5年缴)折扣US$620。",
+    "age": "15 days-65",
+    "customer requirement": "一般无需健康资料；若同一受保人过去24个月总年度化保费>US$250,000需提供健康资料。",
+    "price structure": "5年或10年缴；各缴费年期采用指定费率，期内不分性别/吸烟习惯；名义金额分级折扣。",
+    "additional informations": "保障期至紧接受保人100岁之保单周年日；可选将可支取现金累积生息/提取/用于未来保费；可申请最高保证现金价值80%的保单贷款。"
+  },
+  "# ========================= Row 103 =========================": {
+    "Plan_category": "savings",
+    "Coverage_Description": "一次性缴费后积存1年；自第2个保单年度起支付20年每月收入（保证+非保证）；保障期内提供身故赔偿；退保有保证现金价值，并可能派发一次性非保证终期红利。",
+    "pricing": "示例：50岁受保人一次性保费US$64,120；保证每月收入US$276，非保证每月收入US$31（合计US$307）；20年保证收入总额US$66,240。",
+    "age": "15 days-75",
+    "customer requirement": "一般毋须健康资料；若同一受保人过去24个月内指定计划累计应缴保费超过HK$6,000,000/US$750,000，需提交健康资料。",
+    "price structure": "USD躉交（单次缴费）；所有投保年龄同一费率（不分性别、国籍、吸烟习惯）；1年积存期后进入20年收入期。",
+    "additional informations": "可预先设定身故赔偿发放方式（一次性/每月分期/组合）；每月收入可存入香港港元账户或以港元/美元支票支付；可申请最高保证现金价值80%的保单贷款；非合资格延期年金（保费不享税务扣除）。"
+  },
+  "# ========================= Row 104 =========================": {
+    "Plan_category": "deferred annuity",
+    "Coverage_Description": "5或10年缴费后积存5/10/15/20/30年，年金期10或20年，每月年金由保证及非保证部分组成；含身故保障（至少为到期及已缴总保费扣已派年金后的105%）、积存期意外身故额外保障（已缴总保费50%，上限US$125,000）及一次性智贴心保障（按退保价值赔付）。",
+    "pricing": "最低年缴保费约US$3,040-6,180（按计划组合）；示例：年缴US$16,000，缴5年（总保费US$80,000），保证每月年金US$379＋非保证每月年金US$74（合计US$453），并有示例非保证终期红利US$10,930。",
+    "age": "21-75",
+    "customer requirement": "保单持有人、年金领取人及受保人必须为同一人",
+    "price structure": "5或10年定额保证保费；费率按缴费期、积存期及年金期组合而定",
+    "additional informations": "获保险业监管局认证为QDAP；合资格保费可申请税务扣除（每名纳税人每年上限HK$60,000）；投保毋须健康资料；可设保费储蓄户口预缴保费"
+  },
+  "# ========================= Row 105 =========================": {
+    "Plan_category": "whole life",
+    "Coverage_Description": "Single-premium USD investment-linked life plan with lifelong cover; policy account value follows selected investment options; death benefit is 105% of policy account value",
+    "pricing": "Minimum single premium US$15,000; maximum allowed single premium is subject to underwriting requirements.",
+    "age": "15 days-70",
+    "customer requirement": "Submit application form with required premium; approval is subject to Prudential's internal underwriting guidelines",
+    "price structure": "One-off lump-sum premium in USD; no extra premium accepted after policy issuance",
+    "additional informations": "Investment bonus from policy year 6 onward when average monthly policy account value is at least US$15,000 and policy is in force; 21-day cooling-off period"
+  },
+  "# ========================= Row 106 =========================": {
+    "Plan_category": "home insurance",
+    "Coverage_Description": "All-risks household contents protection with accidental damage; limits up to HK$1,500,000/year and HK$150,000/item, plus third-party legal liability up to HK$15,000,000/year; optional building structure and selected add-on covers",
+    "pricing": "Basic cover annual premium HK$680-2,780 (area/plan-based); Home Appliance Warranty add-on HK$409-1,312/year; Building Structure premium rate 0.07% of sum insured with basic cover (0.09% if structure-only and owner-occupied).",
+    "age": "18",
+    "customer requirement": "Applicant must be 18+; residential premises only",
+    "price structure": "Annual premium table by saleable/gross floor area and plan tier (Harmony/Premier); optional building structure priced by % of sum insured",
+    "additional informations": "3-day typhoon waiting period (Signal No.8 or above already hoisted); loyalty bonus +HK$50,000 household contents on each renewal (max +HK$200,000); excess: HK$250 basic cover, HK$3,000 optional cover"
+  },
+  "# ========================= Row 107 =========================": {
+    "Plan_category": "pet insurance",
+    "Coverage_Description": "Vet medical cover (consultation, surgery, hospitalization, diagnostics incl. CT/MRI, chemotherapy/heart disease treatment) plus third-party legal liability; up to HK$90,000 medical and HK$3,000,000 liability per policy year",
+    "pricing": "Minimum premium HK$400 per policy (for termination/adjustment during policy period).",
+    "age": "13",
+    "customer requirement": "Applicant must be age 18+ and the pet owner in Hong Kong; insured pet must be a dog/cat living with owner in Hong Kong",
+    "price structure": "Plan A/Plan B; annual premium with IA levy",
+    "additional informations": "Waiting periods: illness 30 days, cancer 180 days, injury 7 days (waivable with prior 1-year similar cover); claim submission via myPrudential eClaim within 31 days; Hong Kong-only coverage with breed/pre-existing-condition exclusions"
+  },
+  "# ========================= Row 108 =========================": {
+    "Plan_category": "home landlord insurance",
+    "Coverage_Description": "Landlord cover for household contents at insured premises (Plan 1 up to HK$500,000; Plan 2 up to HK$1,500,000, with per-item limits), loss of rent up to HK$120,000/240,000 (max 6 months), property owner legal liability up to HK$10,000,000 per policy year, and opti",
+    "pricing": "Annual premium (basic): HK$590-800 (Plan 1) or HK$840-1,400 (Plan 2), depending on floor-area band; optional building structure premium = sum insured × 0.07% (with basic cover) or × 0.09% (without basic cover).",
+    "age": "18",
+    "customer requirement": "Applicant must be the owner of the insured premises; policy starts only after company acceptance and premium payment",
+    "price structure": "Yearly premium by plan tier and gross/saleable floor area; optional building-structure cover priced as a percentage of declared sum insured (minimum HK$500,000)",
+    "additional informations": "Policy term is 1 year with automatic yearly renewal (subject to underwriting); loyalty bonus adds HK$50,000 household-contents limit per renewal up to HK$200,000; excess generally HK$250, with specific higher excess rules for water/wallpaper and HK$3,000 for building-structure non-fire/explosion losses"
+  },
+  "# ========================= Row 109 =========================": {
+    "Plan_category": "domestic helper insurance",
+    "Coverage_Description": "Covers employer liability and domestic-helper related risks, including employees' compensation, outpatient/hospitalisation/surgery, dental, repatriation, personal liability, and op",
+    "pricing": "Per helper premium examples: Basic HK$120 (1 month), HK$280 (3 months), HK$300 (1 year), HK$550 (2 years); Comprehensive HK$730 (1 year), HK$1,320 (2 years)",
+    "age": "18-65",
+    "customer requirement": "Applicant must be the insured domestic helper's employer (overseas helper must match employment contract); application must be signed by applicant aged 18+",
+    "price structure": "Premium is charged per domestic helper, by selected plan (Basic/Comprehensive/Comprehensive+Top-Up/Top-Up only) and insurance term (1 month,",
+    "additional informations": "15-day waiting period for most medical benefits and 12-month waiting period for maternity benefit; driving duty may require underwriting with 25% extra premium; minimum premium HK$300 on policy adjustment/termination"
+  },
+  "# ========================= Row 110 =========================": {
+    "Plan_category": "home renovation insurance",
+    "Coverage_Description": "Covers residential interior renovation works with third-party legal liability; optional all-risks material damage and optional employees’ compensation/scaffolding cover; single contract up to 4 months, exterior work cost limit 20% of contract sum or HK$100,000",
+    "pricing": "Premium table shown: HK$1,200-12,375 per policy depending on contract sum (HK$150,000-1,250,000), selected cover options, scaffolding option, and liability sum insured (HK$5,000,000-30,000,000).",
+    "age": "18",
+    "customer requirement": "Property owner/occupier or contractor company for residential renovation; policy must be accepted and in force before works commence",
+    "price structure": "One-off premium matrix by contract sum × liability sum insured × cover package (Basic Third Party Liability vs with Optional Material Damage",
+    "additional informations": "No refund after policy issuance; major exclusions include COVID-19/pandemic and works related to signboard/neon sign/cage/cladding; eClaim via myPrudential within 31 days after incident"
+  },
+  "# ========================= Row 111 =========================": {
+    "Plan_category": "travel",
+    "Coverage_Description": "Overseas-study travel protection (no excess): study interruption and tuition loss, emergency assistance and accident cover, baggage/travel document and personal liability benefits,",
+    "pricing": "Semi-annual: Basic HK$1,080; Premier HK$1,890. Optional Medical Support add-on: Basic HK$1,200 / Premier HK$1,800 (total HK$2,280 / HK$3,690). Annual: Basic HK$1,800; Premier HK$2,500. Optional Medical Support add-on: Basic HK$2,000 / Premier HK$3,000 (total HK$3,800 / HK$5,500).",
+    "age": "6-70",
+    "customer requirement": "Insured person is an overseas student (at an overseas educational institution); trip must originate from Hong Kong",
+    "price structure": "Basic or Premier plan; Semi-Annual (6-month, non-renewable) or Annual (renewable subject to underwriting)",
+    "additional informations": "Coverage can be suspended once per policy year for up to 3 months; graduation incentive with up to 1-year post-graduation continuation on successful renewal; renewal No Claim Discount up to 20%"
+  },
+  "# ========================= Row 112 =========================": {
+    "Plan_category": "travel insurance",
+    "Coverage_Description": "海外醫療及人身意外各最高HK$1,200,000（71歲或以上醫療支援上限HK$600,000）；取消旅程及提早結束旅程各最高HK$50,000；行李及個人財物最高HK$20,000；個人責任最高HK$1,500,000；24小時緊急支援服務無限額。",
+    "pricing": "單次（亞洲及指定島嶼，1-10日）：投保人HK$92-286、投保人及家人HK$230-715；單次（全球，1-14日）：投保人HK$138-571、投保人及家人HK$345-1,428；全年保障（亞洲及指定島嶼）：投保人HK$2,130、投保人及家人HK$4,260。",
+    "age": "80",
+    "customer requirement": "旅程須由香港出發；須於離開香港入境處櫃枱前完成投保；全年保障申請人須為香港居民；申請表須由18歲或以上人士簽署。",
+    "price structure": "按地區（亞洲/全球）、旅程日數、受保組合（投保人/配偶/子女/家人）計算單次保費；全年保障按投保人或投保人及家人收費，續保按索償紀錄可享無索償折扣。",
+    "additional informations": "全年保障每次旅程最長90日且一年內不限旅程次數；單次旅程最長182日；可投保單段旅程（抵達目的地後7日完結）；新冠肺炎伸延保障適用於2023-03-10或之後簽發的新保單（至另行通知）。"
+  },
+  "# ========================= Row 113 =========================": {
+    "Plan_category": "travel",
+    "Coverage_Description": "Working-holiday travel protection with no excess: medical support and personal accident (up to HK$1,200,000 each), emergency evacuation/repatriation (unlimited), baggage/travel doc",
+    "pricing": "HK$4,000/year (Annual Cover); HK$2,400/6 months (Semi-Annual Cover).",
+    "age": "18-35",
+    "customer requirement": "Working Holiday trips must originate from Hong Kong; insurance is mainly for participating in overseas Working Holiday (proof may be required)",
+    "price structure": "Fixed premium by term; Annual Cover is renewable (subject to underwriting), Semi-Annual Cover is non-renewable",
+    "additional informations": "Automatic 10-day extension for unavoidable delay; COVID-19 extension under Medical Support (conditions apply); listed high-risk leisure activities are covered"
+  },
+  "# ========================= Row 114 =========================": {
+    "Plan_category": "golf insurance",
+    "Coverage_Description": "Worldwide cover while playing/practising at recognized golf courses/driving ranges: public liability (HK$5,000,000/year; golf cart claim HK$100,000/event), personal accident (death/loss of limb or eye, temporary total disablement up to 104 weeks), accidental medical expenses, golfing equipment (HK$30",
+    "pricing": "Annual premium: HK$600 (Individual) or HK$840 (Family). Minimum premium per policy: HK$300. 10% first-year premium discount if applied together with PRUChoice Travel Annual Coverage.",
+    "age": "3-75",
+    "customer requirement": "Applicant/policyholder must be age 18+; family cover includes insured, spouse, and unmarried children aged 3-17 (children 16-17 may be insured alone if parent is policyholder)",
+    "price structure": "Fixed annual premium, 1-year policy term; tiered by Individual vs Family cover",
+    "additional informations": "Main exclusion includes communicable diseases (including COVID-19/pandemic). HK$500 excess applies to third-party property damage claims ari"
+  },
+  "# ========================= Row 115 =========================": {
+    "Plan_category": "credit card protection",
+    "Coverage_Description": "Unauthorized-use protection for lost credit cards (up to 10 cards, HK$1,500 per card per loss; up to HK$1,000,000/year after reporting). Includes extra lost-card benefits when card and HKID are lost together, plus 24-hour emergency travel assistance (up to HK$20,000/year)",
+    "pricing": "HK$500/year (annual premium); minimum non-refundable premium HK$300 per policy.",
+    "age": null,
+    "customer requirement": "Applicant/policyholder must be Hong Kong resident; only Hong Kong-issued credit cards are covered",
+    "price structure": "Fixed annual premium per policy; first HK$250 excess applies to each loss in Sections 1 and 2",
+    "additional informations": "Can extend coverage to up to 4 immediate family members (spouse and unmarried children living with insured in Hong Kong)"
+  },
+  "# ========================= Row 116 =========================": {
+    "Plan_category": "motor insurance",
+    "Coverage_Description": "Private motor insurance with Third Party Only or Comprehensive options; includes third-party liability and benefits such as NCD protection (claim <= HK$60,000 or 15% of limit, whichever lower), zero-depreciation replacement for brand-new cars (<1 year)",
+    "pricing": null,
+    "age": "18",
+    "customer requirement": "Applicant must be 18+; provide vehicle registration and driving licence copies",
+    "price structure": "Premium is underwriting-based; comprehensive premium uses declared Limit of Indemnity",
+    "additional informations": "Claims recovery service may refund paid excess and reinstate NCD if third-party recovery succeeds; 24-hour claims advisory hotline; special features apply to Private Comprehensive Insurance only"
+  },
+  "# ========================= Row 117 =========================": {
+    "Plan_category": "student accident insurance",
+    "Coverage_Description": "Annual Hong Kong study protection for visiting university students: hospitalisation expenses up to HK$300,000/year, personal accident up to HK$600,000/year, tuition-related interru",
+    "pricing": "HK$2,380/year (annual cover)",
+    "age": "18-30",
+    "customer requirement": "University students studying in Hong Kong from Mainland China or overseas",
+    "price structure": "Annual premium; renewal no-claim discount 10% after 1 claim-free year, 20% after 2 consecutive claim-free years",
+    "additional informations": "No excess for all sections; coverage suspension allowed once per policy year for up to 3 months due to study interruption"
+  }
+}

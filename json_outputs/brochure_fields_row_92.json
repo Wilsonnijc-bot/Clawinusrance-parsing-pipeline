@@ -1,0 +1,9 @@
+{
+  "Plan_category": "whole life",
+  "Coverage_Description": "Single-premium participating life plan with lifetime coverage; guaranteed cash value starts at 85% of single premium and grows with non-guaranteed terminal bonus; death benefit (if no backup insured) is the higher of guaranteed cash value + terminal bonus or 101% of single premium, less outstanding loans",
+  "pricing": "Single premium (lump sum); minimum US$10,000. Illustrated case uses US$1,000,000 single premium.",
+  "age": "15 days-75",
+  "customer requirement": "Insured must be at least 15 days old at application signing; applications/changes are subject to insurer approval and underwriting requirements",
+  "price structure": "Single-pay; nominal amount equals the single premium",
+  "additional informations": "USD policy currency; no medical exam if total single premium is within company administrative limit; bonus lock-in from policy year 10 (10%-50% each time, total up to 50%)"
+}

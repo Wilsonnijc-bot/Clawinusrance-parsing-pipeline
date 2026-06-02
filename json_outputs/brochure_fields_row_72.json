@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Standard health check-up (physical exam, blood/urine/stool tests, X-ray/ECG) with optional cancer/female/hepatitis B/H. pylori tests; covers eligible follow-up tests for specified abnormal findings and CBC for 2 direct family members if thalassaemia suspected",
+  "pricing": "Standard Plan HK$1,850; optional items: Total PSA HK$640, Pap Smear HK$470, Breast Ultrasound HK$1,420, CA72.4 HK$990, EBV IgA HK$850, AFP HK$490, CEA HK$700; Female Plan HK$2,830; Hepatitis B Tests HK$490; Helicobacter Pylori Test HK$1,080.",
+  "age": "18-70",
+  "customer requirement": "Hong Kong SAR resident; covered person aged 18-70 at application",
+  "price structure": "Fixed premium by selected package/add-ons; optional items must be purchased with Standard Plan",
+  "additional informations": "15-day waiting period; each eligible follow-up test payable once per insured across policy and renewals"
+}

@@ -1,0 +1,9 @@
+{
+  "Plan_category": "disability income",
+  "Coverage_Description": "因意外或疾病致伤残并于30/60/90/180日伸展期后，按保额1/12每月赔偿；局部伤残按收入降幅比例给付（最多24个月）；可选最高赔偿期为意外至65岁且疾病2年/5年，或意外及疾病至65岁；伤残期间豁免后续保费并退回伸展期已缴保费。",
+  "pricing": null,
+  "age": "18-55",
+  "customer requirement": "18-55岁全职工作人士",
+  "price structure": "基本计划币种USD/HKD，附加保障币种USD；保费率每5年检讨并统一调整",
+  "additional informations": "职业不变可每5年自动续保一次至65岁且无需健康证明；24小时全球保障；赔款期间可选每年6%或按乙类消费物价指数（较低者）递增"
+}

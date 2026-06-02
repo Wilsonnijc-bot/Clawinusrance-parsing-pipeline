@@ -1,0 +1,9 @@
+{
+  "Plan_category": "disability waiver rider",
+  "Coverage_Description": "Waives premiums on the attached basic policy if the insured is totally disabled for at least 180 consecutive days due to accident or illness; benefit applies up to age 61",
+  "pricing": null,
+  "age": "16-55",
+  "customer requirement": "must be added to a basic plan at policy application",
+  "price structure": "non-guaranteed premium rates; insurer may review and adjust by risk class at each policy anniversary",
+  "additional informations": "Major exclusions include pre-existing conditions, war/riot, alcohol or drugs (without medical instruction), suicide/self-harm, criminal acts; terminates at earliest death, 1-month premium default, base plan termination, or end of coverage term"
+}

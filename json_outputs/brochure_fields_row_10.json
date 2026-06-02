@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Medical reimbursement cover for hospitalisation, surgery, cancer treatment, dialysis, stroke rehabilitation, emergency treatment, and optional outpatient/dental benefits; overall lifetime limit HK$50,000,000 (US$6,250,000), annual limit HK$20,000,000 (US$2,500,000), deductible choices HK$0/16,000/25,000/50,000 (US$0/2,000/3,125/6,250), worldwide or",
+  "pricing": null,
+  "age": "15 days-70",
+  "customer requirement": "Hong Kong distribution only; add-on version requires attachment to a specified basic plan",
+  "price structure": "Basic plan premium modes: annual/semi-annual/quarterly/monthly; add-on follows the corresponding basic plan",
+  "additional informations": "No-claim deductible discount 10% after every 2 claim-free years, up to 100%; dental optional benefit covers up to age 66"
+}

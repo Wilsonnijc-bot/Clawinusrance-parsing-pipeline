@@ -1,0 +1,442 @@
+{
+  "# ========================= Url number 1 in productpageurl =========================": {
+    "# ========================= Row 1 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$4,962/year (illustrative, age 47 non-smoker, 5-year term, sum assured US$50,000; total premiums US$24,808)",
+      "age": "15 days-75",
+      "customer requirement": "policy owner must pay IA levy on each premium payment",
+      "price structure": "5-year or 30-year premium term; payment mode annually/semi-annually/quarterly/monthly",
+      "additional informations": "policy currency US$; minimum sum assured US$10,000"
+    },
+    "# ========================= Row 2 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$50,000/year (illustrative, age 48 non-smoker, 5-year premium term, sum assured US$364,804)",
+      "age": "18-65",
+      "customer requirement": "policy owner must pay IA levy on each premium payment (Hong Kong policies)",
+      "price structure": "guaranteed level premium; premium payment term 5/12/18 years",
+      "additional informations": "participating plan with non-guaranteed Reversionary Bonus and Terminal Bonus; Total and Permanent Disability/Caring benefits with advance payments and premium waiver (max aggregate US$1.25 million)"
+    },
+    "# ========================= Row 3 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$3,200/year (illustrative, age 30, non-smoker, 5-year pay); US$6,540/year (illustrative, age 40, non-smoker, 10-year pay)",
+      "age": "15 days-75",
+      "customer requirement": null,
+      "price structure": "Recurring premium; pay term 5/10/25 years",
+      "additional informations": "TPD premium waiver before age 60; optional Payor Benefit Rider; optional accident/medical/critical illness/disability add-on plans"
+    },
+    "# ========================= Row 4 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$16,020/year (illustrative, age 35 non-smoker, sum assured US$500,000, 18-year pay)",
+      "age": "15 days-75",
+      "customer requirement": "IA levy required on each premium payment (Hong Kong policies)",
+      "price structure": "Guaranteed fixed premium; pay term one-time/5/10/18/25 years",
+      "additional informations": "Policy currency options US$/HK$ (MOP for Macau-issued policy); optional TPD premium waiver and Payor Benefit Rider/add-on protection plans"
+    },
+    "# ========================= Row 5 =========================": {
+      "Plan_category": "term life",
+      "pricing": "Annual premium rate (yearly renewable) per US$/HK$/MOP1,000 sum assured: 0.90-41.11 (issue ages 16-70, varies by sex/smoker); renewal ages 71-84 listed up to 181.17; premium discount -0.09 per 1,000 for sum assured ≥US$250,000/HK$/MOP1,875,000.",
+      "age": "16-70",
+      "customer requirement": null,
+      "price structure": "Per-1,000-sum-assured rate; first-year premium by attained age, sex and smoking status",
+      "additional informations": "Basic plan only; no savings element; currency options USD/HKD/MOP"
+    },
+    "# ========================= Row 6 =========================": {
+      "Plan_category": "term life",
+      "pricing": "10% premium discount in first year via AIA Vitality; minimum 10% annual discount thereafter",
+      "age": "15 days-70",
+      "customer requirement": "underwriting approval; premium payment required (31-day grace period)",
+      "price structure": "guaranteed level premium within each renewal period; renewable 1/5/20-year terms",
+      "additional informations": "basic plan or add-on plan; policy currency options: USD/HKD/MOP; insurance protection only (no savings element)"
+    }
+  },
+  "# ========================= Url number 2 in productpageurl =========================": {
+    "# ========================= Row 7 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "Minimum: one-time US$7,500 (HK$56,250/MOP56,250) or 5-year annual US$2,000 (HK$15,000/MOP15,000); illustrative: US$500,000 one-time or US$40,200/year for 5 years",
+      "age": "15 days-80",
+      "customer requirement": "insurable interest; AML/customer due diligence compliance",
+      "price structure": "single premium (one-time) or 5-year regular premium (annual/semi-annual/quarterly/monthly)",
+      "additional informations": "9-currency support with currency exchange option; guaranteed cash value with non-guaranteed reversionary and terminal bonuses; flexible withdrawal/value safeguard/bonus lock-in options"
+    },
+    "# ========================= Row 8 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "Minimum premium varies by currency/term (e.g., US$7,500 one-time; US$2,000 annual for 3/5-year; US$1,400 annual for 10-year). Illustrative: HK$300,000/year for 5 years; US$250,000 single premium.",
+      "age": "15 days-80",
+      "customer requirement": "underwriting approval; no medical exam if premium is within aggregate limit per insured",
+      "price structure": "one-time single premium or 3/5/10-year premiums; annual/semi-annual/quarterly/monthly modes for regular terms",
+      "additional informations": "participating plan; up to 9 policy currencies; currency exchange option from end of policy year 2"
+    },
+    "# ========================= Row 9 =========================": {
+      "Plan_category": "deferred annuity",
+      "pricing": "Minimum annual premium US$4,800; illustrative annual premiums US$7,500-US$12,000 (5-year premium term)",
+      "age": "18-70",
+      "customer requirement": "Tax deduction requires annuitant to be policy owner/spouse with taxable income; no medical exam if annual premium is within insurer aggregate limit",
+      "price structure": "5-year fixed premium term; payment mode annual/semi-annual/monthly",
+      "additional informations": "QDAP tax deduction up to HK$60,000 per taxpayer per year; annuity start age options 50/55/60/65/70/75 with 10-year annuity period; monthly annuity can be paid out or accumulated"
+    },
+    "# ========================= Row 10 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$4,962/year (illustrative, age 47, non-smoker, US$50,000 sum assured, 5-year premium term); total premiums US$24,808",
+      "age": "15 days-75",
+      "customer requirement": "minimum sum assured US$10,000",
+      "price structure": "US$ policy currency; premium payment term 5-year or 30-year",
+      "additional informations": "participating plan with guaranteed cash value and non-guaranteed terminal dividend (from year 3); PRMP-eligible life insurance plan; optional accidental death rider pays 200% sum assured (max US$1,000,000)"
+    },
+    "# ========================= Row 11 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$16,020/year (illustrative, age 35, non-smoker, US$500,000 sum assured, 18-year premium term)",
+      "age": "15 days-75",
+      "customer requirement": "IA levy required on each premium payment (Hong Kong policies)",
+      "price structure": "guaranteed fixed premium; premium term one-time/5/10/18/25 years",
+      "additional informations": "participating plan with guaranteed cash value plus non-guaranteed annual and terminal dividends; optional premium waiver for total and permanent disability before age 60 (non-single-premium policies)"
+    },
+    "# ========================= Row 12 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$16,557/year (illustrative; insured age 0; principal amount US$100,000; 6-year premium term)",
+      "age": "15 days-65",
+      "customer requirement": "No medical exam if total annual premiums are within the insurer aggregate limit per insured",
+      "price structure": "Guaranteed fixed premium; premium term 6/10/15/20 years",
+      "additional informations": "Participating plan; annual dividend from end of policy year 10 and terminal dividend from policy year 10; guaranteed cash payments 2.1% of principal yearly to age 100 plus extra 0.4% yearly to policy year 20"
+    },
+    "# ========================= Row 13 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "Illustrative annual premiums: US$3,200 (age 30, 5-year pay), US$2,477 (age 38, 25-year pay), US$6,540 (age 40, 10-year pay)",
+      "age": "15 days-75",
+      "customer requirement": "minimum sum assured US$10,000",
+      "price structure": "5/10/25-year premium payment term; annual/semi-annual/quarterly/monthly payment mode",
+      "additional informations": "Participating plan; Terminal Dividend (Serene Life: after 3 policy years; Annual Dividends version: after 10 policy years)"
+    },
+    "# ========================= Row 14 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "Minimum: US$5,000 one-time; US$1,500/year (5-year) or US$1,000/year (10-year). Illustrative: US$20,000/year for 5 years; US$125,000 one-time.",
+      "age": "15 days-80",
+      "customer requirement": "underwriting approval; no medical exam if total premium is within aggregate limit",
+      "price structure": "premium term: one-time, 5-year, or 10-year; payment mode: single, annual, semi-annual, quarterly, monthly",
+      "additional informations": "change of insured option; contingent insured option; unemployment benefit (5/10-year)"
+    },
+    "# ========================= Row 15 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "US$50,000/year (illustrative, age 48 non-smoker, 5-year premium term)",
+      "age": "18-65",
+      "customer requirement": "pay premiums on time per selected schedule",
+      "price structure": "US dollar policy; 5/12/18-year premium term",
+      "additional informations": "participating plan with non-guaranteed reversionary and terminal bonuses (from end of 3rd policy year); policy loan up to 90% of guaranteed cash value plus reversionary bonus cash value; death benefit instalment option when death benefit is at least US$50,000"
+    },
+    "# ========================= Row 16 =========================": {
+      "Plan_category": "whole life",
+      "pricing": "Minimum one-time premium: US$50,000",
+      "age": "15 days-70",
+      "customer requirement": "No medical exam (subject to one-time premium underwriting limit per insured)",
+      "price structure": "single premium (one-time lump sum)",
+      "additional informations": "US$ policy currency; annual and terminal dividends are non-guaranteed; terminal dividend lock-in option from policy year 15"
+    },
+    "# ========================= Row 17 =========================": {
+      "Plan_category": "retirement income",
+      "pricing": null,
+      "age": "15 days-60",
+      "customer requirement": "no medical exam if total annual premiums within aggregate limit",
+      "price structure": "level premiums; term: 3/5/8/12/18 years (USD) or 12 years (HKD/MOP)",
+      "additional informations": "participating plan with annual dividends; income period options 10/15 years or to age 110; terminal illness advance payment and unemployment benefit"
+    },
+    "# ========================= Row 18 =========================": {
+      "Plan_category": "savings",
+      "pricing": "US$100,000 (one-time premium, illustrative) or US$30,000/year for 3 years (total US$90,000, illustrative).",
+      "age": "15 days-80",
+      "customer requirement": "No medical exam for new applications if annual or one-time premium is within AIA’s aggregate limit per insured",
+      "price structure": "One-time, 3-year, or 5-year premium term; payment mode: single (one-time only), annual, or monthly",
+      "additional informations": "Participating plan with guaranteed annual income plus non-guaranteed annual dividends and terminal dividend"
+    }
+  },
+  "# ========================= Url number 3 in productpageurl =========================": {
+    "# ========================= Row 20 =========================": {
+      "Plan_category": "personal liability",
+      "pricing": "HK$88.09/month or HK$999/year (both include levy); monthly requires 3-month initial payment HK$264.26",
+      "age": null,
+      "customer requirement": "Private residential occupancy; insured location in multi-storey building ≤40 years old and 1st level or above (village/town house subject to insurer approval)",
+      "price structure": "Fixed premium with monthly (credit-card autopay) or annual (credit card/cheque) payment; excess varies by section, building age, and water/non-water damage",
+      "additional informations": "Worldwide scope excludes USA/Canada and follows Hong Kong jurisdiction; 24-hour household emergency referral service; coverage suspended during renovation"
+    },
+    "# ========================= Row 21 =========================": {
+      "Plan_category": "domestic worker insurance",
+      "pricing": "Basic: HK$285.26/year or HK$492.44/2 years; Extra Care: HK$380.36/year; Super Care: HK$680.66/year; optional Cancer & Heart Disease Endorsement (Extra/Super): HK$250.25/year",
+      "age": "18-60",
+      "customer requirement": "Employer policyholder; Extra Care/Super Care only for domestic workers recruited from outside Hong Kong under employment contract",
+      "price structure": "Plan-tier fixed premiums by term (1-year; Basic also 2-year) plus optional endorsement add-on",
+      "additional informations": "14-day waiting period (Sections 3,7,8); HK$200 deductible per claim (Sections 3b,5,6); policy cancellation fee HK$400"
+    },
+    "# ========================= Row 22 =========================": {
+      "Plan_category": "golf insurance",
+      "pricing": "Annual premium incl. levy: Individual HK$300.3/600.6/800.8; Family HK$510.51/960.96/1,281.28 (Silver/Gold/Diamond).",
+      "age": "18-65",
+      "customer requirement": "Hong Kong resident normally residing in Hong Kong; one plan per insured",
+      "price structure": "Tiered annual premium by Silver/Gold/Diamond and Individual/Family; insurance levy included",
+      "additional informations": "Hole-in-one hospitality reimbursement terms apply; HK$500 deductible per third-party property damage claim; professional golfers and North Korea/Vietnam/Laos/Cambodia excluded"
+    },
+    "# ========================= Row 23 =========================": {
+      "Plan_category": "personal accident",
+      "pricing": null,
+      "age": "18-70",
+      "customer requirement": "professional/amateur runners in covered runs (>=50 participants, public or AIA-sponsored, distance >=3,000m, altitude <=2,000m, on-site para",
+      "price structure": "single premium (HK$), policy term: 1/3/30/90 days",
+      "additional informations": "no savings element; IA levy applies (0.1% of premium, max HK$5,000); if multiple Runner Guard policies for same event, only highest-indemnity policy applies"
+    },
+    "# ========================= Row 19 =========================": {
+      "Plan_category": "personal accident",
+      "pricing": "HKD 5 per insured for 30-day coverage",
+      "age": "14 days-70",
+      "customer requirement": "Valid HKID/HK birth certificate; insured in Hong Kong at application",
+      "price structure": "Flat premium per insured",
+      "additional informations": "Accidental death HKD10,000 aggregate once per insured across all policies; outpatient up to HKD300 per covered booking (max 1 booking per 7 days); hospital income HKD800/day up to 10 days per booking and 40 days per year"
+    }
+  },
+  "# ========================= Url number 4 in productpageurl =========================": {
+    "# ========================= Row 24 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "US$1,778/year (illustrative, First Gift, SA US$150,000, 25-year term, annual mode); US$4,650/year (illustrative, Plan 2, SA US$100,000, 18-year term, annual mode)",
+      "age": "15 days-45",
+      "customer requirement": "First Gift: expectant mother with gestation period of 22nd week or above",
+      "price structure": "Premium payment term 10/18/25 years; mode annually/semi-annually/quarterly/monthly",
+      "additional informations": "Participating plan; guaranteed cash value with non-guaranteed terminal bonus; policy currency US$"
+    },
+    "# ========================= Row 25 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "US$1,377/year (illustrative: age 25, non-smoker, US$60,000 sum assured, 25-year term, annual mode); US$1,997/year (illustrative: age 37, non-smoker, US$50,000 sum assured, 18-year term, annual mode)",
+      "age": "15 days-65",
+      "customer requirement": null,
+      "price structure": "US$ policy currency; 10/18/25-year premium payment term",
+      "additional informations": "participating plan with guaranteed cash value and non-guaranteed terminal bonus; grace period can extend from 31 days to up to 365 days for specified events; One-Stop Oncology Service is value-added and Hong Kong only"
+    },
+    "# ========================= Row 26 =========================": {
+      "Plan_category": "health",
+      "pricing": "10% premium discount in first year via AIA Vitality; minimum 10% premium discount each subsequent year (annual membership fee required)",
+      "age": "15 days-80",
+      "customer requirement": "semi-private room (Hong Kong) requires SelectWise designated hospital + all attending network doctors + pre-approval; policyholder must be taxpayer for tax deduction",
+      "price structure": "premium modes: annually/semi-annually/quarterly/monthly; annual deductible options HKD0/8,800/18,000/30,000/55,000 or USD0/1,100/2,250/3,750/6,875",
+      "additional informations": "VHIS Flexi Plan (certified); purchasable as basic plan or add-on plan; unknown pre-existing conditions covered from day 31 of the first policy year"
+    },
+    "# ========================= Row 27 =========================": {
+      "Plan_category": "health",
+      "pricing": "10% premium discount in first year via AIA Vitality; minimum 10% premium discount each subsequent year (annual membership fee required)",
+      "age": "15 days-80",
+      "customer requirement": "standalone or add-on to specified basic plan; policyholder must be taxpayer for VHIS tax deduction",
+      "price structure": "reimbursement plan; annual deductible HKD0/16,000/25,000/50,000 or USD0/2,000/3,125/6,250",
+      "additional informations": "VHIS Flexi certified plan; guaranteed renewal whole life; unknown pre-existing conditions fully covered from day 31 of first policy year"
+    },
+    "# ========================= Row 28 =========================": {
+      "Plan_category": "health",
+      "pricing": "10% first-year premium discount via AIA Vitality and minimum 10% each subsequent year; First Gift compassionate refund equals 105% of Total Basic Premiums Paid",
+      "age": "15 days-45",
+      "customer requirement": "First Gift applicant must be an existing insured under OptimaCEO (annual premium mode), expectant mother at 22+ weeks gestation, and legal m; main plan can be standalone or specified add-on",
+      "price structure": "reimbursement plan; main plan annual deductible HK$0/16,000/25,000/50,000/88,000 (US$0/2,000/3,125/6,250/11,000), premium mode annual/semi-annual/quarterly/mont",
+      "additional informations": "main plan renewable yearly for life; First Gift is 1-year non-renewable with newborn cover on birth date to 90 days and option to apply OptimaCEO for newborn via simplified unde"
+    },
+    "# ========================= Row 29 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "US$1,703/year (illustrative, age 22 non-smoker); US$3,992/year (age 33 non-smoker); US$6,910/year (age 39 non-smoker)",
+      "age": "15 days-65",
+      "customer requirement": "Life Cover and Cancer Cover are compulsory selections at application; optional covers cannot be added or reduced after policy issue",
+      "price structure": "US$ policy currency; premiums calculated separately by selected cover",
+      "additional informations": "Benefit term to age 100; optional Multiple Cancer Cover allows up to 5 additional claims (to age 85)"
+    },
+    "# ========================= Row 30 =========================": {
+      "Plan_category": "health",
+      "pricing": "10% first-year premium discount for AIA Vitality members (minimum 10% each policy year); no-claim discount 5%-25%",
+      "age": "15 days-80",
+      "customer requirement": "for tax deduction, policyholder must be taxpayer and insured person must be taxpayer or specified relative",
+      "price structure": "reimbursement plan; basic plan or specified add-on",
+      "additional informations": "VHIS certified; guaranteed renewal for life; no annual/lifetime benefit limit"
+    },
+    "# ========================= Row 31 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "rate-based",
+      "age": "15 days-60",
+      "customer requirement": "Attach to a corresponding basic plan; insured must fall within eligible occupation classes",
+      "price structure": "Rate-table annual premiums by attained age, selected sum assured and optional covers; non-guaranteed and reviewed annually",
+      "additional informations": "Benefit term to age 85 (core), 76 (medical reimbursement), 65 (daily hospital); 5% renewal benefit for first 5 policy years (subject to limits); worldwide emergency assistance up to HK$/MOP5,000,000 or US$625,000"
+    },
+    "# ========================= Row 32 =========================": {
+      "Plan_category": "health",
+      "pricing": null,
+      "age": "15 days-70",
+      "customer requirement": "premium payment required for lifetime renewal (31-day grace period)",
+      "price structure": "recurring premium (annual/semi-annual/quarterly/monthly) with annual deductible options HK$0/16,000/25,000/50,000 or US$0/2,000/3,125/6,250",
+      "additional informations": "lifetime guaranteed renewal; standalone or add-on plan; optional outpatient and dental benefits"
+    },
+    "# ========================= Row 33 =========================": {
+      "Plan_category": "health",
+      "pricing": "HK$220/month (illustrative: age 35, non-smoker, HK$1,000,000 sum assured, first policy year, yearly renewal); annual rate table is US$/HK$/MOP 1.52-231.08 per 1,000 sum assured.",
+      "age": "15 days-65",
+      "customer requirement": "Add-on plan must attach to a corresponding basic plan; AIA Vitality discount applicants must be age 18+ and be the insured of an in-force AIA Vitality selected policy",
+      "price structure": "Per-1,000-sum-assured annual rates by attained age, sex, smoker status and 1-year/5-year renewal; basic-plan payment mode annual/semi-annual/quarterly/monthly",
+      "additional informations": null
+    },
+    "# ========================= Row 34 =========================": {
+      "Plan_category": "health",
+      "pricing": "Annual premium rate table (per US$/HK$/MOP1,000 Sum Assured): 1.93-306.36; illustrative monthly premiums: HK$310 (age 35, non-smoker, SA HK$1,000,000, 1-year renewal) and HK$320 (age 25, non-smoker, SA HK$2,000,000, first 5 years with 20% discount).",
+      "age": "15 days-65",
+      "customer requirement": "Insured age 15 days-65; available as stand-alone or add-on to specified basic plans",
+      "price structure": "Premiums are calculated by attained age and rate at application/renewal, varying by age, sex, smoking status, currency and 1-year/5-year ren; payable to age 85 (basic: annual/semi-annual/quarterly/monthly",
+      "additional informations": "Not a VHIS certified plan (premiums not tax-deductible); no savings element; guaranteed renewal to age 85"
+    },
+    "# ========================= Row 35 =========================": {
+      "Plan_category": "health",
+      "pricing": "HK$1,954/year (illustrative first-year premium: male non-smoker, age 35, Mega, annual); HK$2,553/year (illustrative first-year premium: female non-smoker, age 32, Mega, annual)",
+      "age": "15 days-70",
+      "customer requirement": "written medical practitioner recommendation/certificate required for medicine and experimental drug claims",
+      "price structure": "first-year premium based on standard rates by attained age and plan level; basic plan payment modes annual/semi-annual/quarterly/monthly",
+      "additional informations": "whole-life renewal; basic or add-on plan; plan levels Standard/Plus/Mega"
+    },
+    "# ========================= Row 36 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "US$/HK$/MOP0.65-165.56 per 1,000 sum assured/year (first-year reference; age/sex/smoker dependent)",
+      "age": "18-65",
+      "customer requirement": "claim submission requires appropriate forms and relevant proof",
+      "price structure": "yearly renewable; premium based on attained age, sex and smoking status",
+      "additional informations": "guaranteed renewal to age 85; compassionate death benefit (US$650 or HK$/MOP5,000); no savings element"
+    },
+    "# ========================= Row 37 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "Age 66-70: Plan1 HK$/MOP3,688/yr (326/mo), Plan2 5,688/yr (502/mo); Age 71-75: Plan1 4,200/yr (371/mo), Plan2 6,210/yr (548/mo)",
+      "age": "66-75",
+      "customer requirement": "Occupation class disclosure/update required; HK/Macau permanent resident for emergency assistance services",
+      "price structure": "Plan- and age-banded non-guaranteed premiums; annual/semi-annual/quarterly/monthly payment",
+      "additional informations": "Benefit term to age 80; Plan 1/2 options; no savings element"
+    },
+    "# ========================= Row 38 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "20% permanent premium discount for sum assured >= US$250,000 / HK$1,875,000 / MOP1,875,000; 10% first-year premium discount with AIA Vitality",
+      "age": "15 days-65",
+      "customer requirement": "Application age 15 days-65; add-on option must follow a corresponding basic plan",
+      "price structure": "Fixed premium per 5-year renewal term; guaranteed renewal to age 80",
+      "additional informations": "US$/HK$/MOP currency options; severe child disease cover ends at age 18; no savings element"
+    },
+    "# ========================= Row 39 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "Illustrative annual premiums: US$4,920 (age 35, non-smoker, 18-year term); US$4,765 (age 35, non-smoker, 18-year term); US$2,180 (insured age 0, 18-year term)",
+      "age": "15 days-65",
+      "customer requirement": "Child premium-waiver feature: insured under 18 and policy owner age 18-50 at issue",
+      "price structure": "3 premium terms (10/18/25 years); annual/semi-annual/quarterly/monthly payment",
+      "additional informations": "Participating plan with guaranteed cash value plus non-guaranteed Annual Dividends and Terminal Bonus; policy currency options: US$/HK$"
+    },
+    "# ========================= Row 40 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "HK$/MOP1,803/year or 159/month (Plan 1)",
+      "age": "18-65",
+      "customer requirement": "occupation-class underwriting with required occupation/employment change disclosure; HK/Macau permanent resident for emergency assistance",
+      "price structure": "single Plan 1 premium; payment modes annual/semi-annual/quarterly/monthly",
+      "additional informations": "benefit term to age 76; no savings element; 21-day cooling-off cancellation refund"
+    },
+    "# ========================= Row 41 =========================": {
+      "Plan_category": "health",
+      "pricing": "AIA Vitality: 10% premium discount in first year; minimum 10% premium discount each year thereafter",
+      "age": "15 days-75",
+      "customer requirement": "online portal registration/account creation and prior appointment required before service use",
+      "price structure": "basic plan paid annually; add-on follows corresponding basic plan payment mode",
+      "additional informations": "no medical underwriting; yearly renewal to age 80; Plan 2 adds unlimited extra online GP consultations and 1 basic check-up per policy year"
+    },
+    "# ========================= Row 42 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "As low as HK$3/day for HK$1,000,000 sum assured (26-year-old non-smoking male); annual premium rate table HK$/MOP0.85-149.22 per HK$/MOP1,000 initial sum assured.",
+      "age": "18-60",
+      "customer requirement": "subject to underwriting",
+      "price structure": "attained-age premium, payable annually or monthly; yearly renewable to age 80",
+      "additional informations": "20% advance claim for covered carcinoma-in-situ/early-stage malignancy (max HK$400,000/US$50,000), then up to 80% for covered cancer or deat; policy terminates at 100% payout"
+    },
+    "# ========================= Row 43 =========================": {
+      "Plan_category": "health",
+      "pricing": "AIA Vitality: 10% premium discount in first year; minimum 10% discount each year. No-claim bonus refund: 5% (3 years), 10% (4 years), 15% (5+ years) of preceding-year pre",
+      "age": "15 days-70",
+      "customer requirement": "Policy owner must pay premiums and IA levy; AIA Vitality annual membership fee required for Vitality discounts",
+      "price structure": "Premium mode: annually / semi-annually / quarterly / monthly; renewal premium based on prevailing rates",
+      "additional informations": "Worldwide cover; optional Supplemental Major Medical Benefits (SMM) rider; network cashless arrangement for specified outpatient surgery"
+    },
+    "# ========================= Row 44 =========================": {
+      "Plan_category": "health",
+      "pricing": "HK$4,928/month (illustrative; age 45 non-smoker; HK$1.4M initial sum assured; 18-year premium term)",
+      "age": "15 days-65",
+      "customer requirement": "subject to underwriting",
+      "price structure": "5/10/15/18/25-year premium payment terms; annual/semi-annual/quarterly/monthly modes",
+      "additional informations": "Plan 100 or Plan 80 payout option; protection term to age 100; premium waiver after major illness claim"
+    },
+    "# ========================= Row 45 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "HK$/MOP423-1,198/month (Plan 1-4; issue age 15 days-56)",
+      "age": "15 days-56",
+      "customer requirement": null,
+      "price structure": "8-year premium pay for 16-year term; fixed guaranteed premiums",
+      "additional informations": "Worldwide emergency assistance up to HK$/MOP500,000"
+    },
+    "# ========================= Row 46 =========================": {
+      "Plan_category": "health",
+      "pricing": "No-claim premium discount 5%-15% (after 3+ consecutive claim-free years); AIA Vitality 10% first-year premium discount and minimum 10% each subsequent year (membership fee required)",
+      "age": "15 days-80",
+      "customer requirement": "for VHIS tax deduction, policyholder must be taxpayer and insured person must be taxpayer or specified relative",
+      "price structure": "premium mode annually/semi-annually/quarterly/monthly; add-on plan follows corresponding basic plan",
+      "additional informations": "VHIS certified Standard Plan; guaranteed renewal to age 100; no lifetime benefit limit"
+    },
+    "# ========================= Row 47 =========================": {
+      "Plan_category": "health",
+      "pricing": "AIA Vitality premium discount: 10% first year; minimum 10% each subsequent year",
+      "age": "15 days-80",
+      "customer requirement": "AIA Vitality annual membership fee required to receive premium discount",
+      "price structure": "premium mode annually/semi-annually/quarterly/monthly; add-on follows corresponding basic plan",
+      "additional informations": "guaranteed renewal whole life; up to 30 outpatient visits per policy year; plan options: Ward/Semi-Private/Standard Private"
+    },
+    "# ========================= Row 48 =========================": {
+      "Plan_category": "health",
+      "pricing": "10% first-year premium discount for AIA Vitality members",
+      "age": "40-60",
+      "customer requirement": "non-smokers with diabetes, hypertension and/or hyperlipidaemia; HbA1c up to 10% may be eligible",
+      "price structure": "basic or add-on plan; annual/semi-annual/quarterly/monthly",
+      "additional informations": "benefit term to age 85; Ward or Standard Private option; worldwide medical cover"
+    },
+    "# ========================= Row 49 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "HK$3,996/month (illustrative, age 36, non-smoker, Plan 100, HK$1,200,000 cover, 18-year premium term)",
+      "age": "15 days-65",
+      "customer requirement": "policy owner must pay IA levy on each premium payment (Hong Kong policies)",
+      "price structure": "premium term 5/10/15/18/25 years; payment mode annual/semi-annual/quarterly/monthly",
+      "additional informations": "protection to age 100; Plan 100 or Plan 80 benefit level; policy currency HK$/US$"
+    },
+    "# ========================= Row 50 =========================": {
+      "Plan_category": "critical illness",
+      "pricing": "HK$2,220/month (illustrative, age 25, non-smoker, HK$1,200,000 initial sum assured, 18-year premium payment term)",
+      "age": "15 days-65",
+      "customer requirement": "IA levy payable on each premium payment (Hong Kong policies)",
+      "price structure": "10/18/25-year premium payment term; payment mode annual/semi-annual/quarterly/monthly",
+      "additional informations": "participating plan with guaranteed cash value plus non-guaranteed annual/terminal dividends; major illness claim waives subsequent basic-plan premiums; policy currency HK$/US$"
+    },
+    "# ========================= Row 51 =========================": {
+      "Plan_category": "personal accident",
+      "pricing": null,
+      "age": "18-70",
+      "customer requirement": "Eligible covered run participant (mass/charity run; >=50 participants",
+      "price structure": "single premium",
+      "additional informations": "Sum assured options HK$500,000/HK$1,000,000; benefit term 1/3/30/90 days; Wild Nature Benefit"
+    },
+    "# ========================= Row 52 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "rate-based",
+      "age": "15 days-63",
+      "customer requirement": "occupation-class underwriting; must report occupation/employment changes",
+      "price structure": "12-year level guaranteed premium term; payment modes: annual/semi-annual/quarterly/monthly",
+      "additional informations": "cash benefit refund of total applicable premiums (0%-60% by policy year), Well Being Program (annual check-up for 12 years), worldwide emerg"
+    },
+    "# ========================= Row 53 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "US$3.6-5.4 per US$1,000 sum assured/year (age 15 days-50: 3.6; 51-60: 4.6; 61-63: 5.4)",
+      "age": "15 days-63",
+      "customer requirement": "occupation class underwriting; report occupation/employment changes",
+      "price structure": "US$ policy; 12-year premium payment term",
+      "additional informations": "double indemnity for specified accident events; annual medical check-up for 12 years; worldwide emergency assistance for HK/Macau/PRC permanent residents (evacuation/repatriation up to US$625,000)"
+    },
+    "# ========================= Row 54 =========================": {
+      "Plan_category": "accident protection",
+      "pricing": "HK$/MOP Plan 1: 1,980/year (175/month); Plan 2: 3,800/year (336/month)",
+      "age": "18-65",
+      "customer requirement": "occupation-class underwriting; must report changes in occupation/employment duties",
+      "price structure": "tiered by Plan 1-3; payable annually or monthly",
+      "additional informations": "benefit term up to age 76; non-savings plan; 21-day cooling-off cancellation right"
+    }
+  }
+}

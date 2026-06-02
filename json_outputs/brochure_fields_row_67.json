@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "住院期间按投保额支付每日住院现金；深切治疗病房赔偿双倍；同一受伤/疾病每次住院最高赔偿1,000日（保障地区外赔偿减半且每次最高90日）。",
+  "pricing": null,
+  "age": "15 days-60",
+  "customer requirement": "须作为附加保障并附加于基本计划投保",
+  "price structure": "按年龄保费率；每5个保单周年可续保；续保保费按当时年龄及适用保费率厘定，并可于保单周年检讨",
+  "additional informations": "疾病30日等待期；不保既有疾病；续保上限至75岁（下次生日年龄）或基本计划期满"
+}

@@ -1,0 +1,9 @@
+{
+  "Plan_category": "dental",
+  "Coverage_Description": "Government-subsidised NGO dental care: every 180 days oral health assessment, X-ray, pain-relief medication, filling/extraction, and bridge/crown removal; every 365 days scaling and root canal treatment; removable dentures every 5 years or more (for participants with fewer than 20 teeth), subject to dentist assessment",
+  "pricing": "Category A: administration fee fully subsidised for 180/365-day services; HK$500/set for removable dentures. Category B: oral assessment/X-ray/pain-relief medication free",
+  "age": null,
+  "customer requirement": "Valid Hong Kong identity card holder; enrolled in eHealth",
+  "price structure": "Government-subsidised administration/co-payment model with Category A vs Category B tiers; charges are service-based (per visit/per tooth/per bridge/per crown/per denture set) with 180-day, 365-day, and 5+ year quotas",
+  "additional informations": "participants pay administration/co-payment fees directly to participating NGOs"
+}

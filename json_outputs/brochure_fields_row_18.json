@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Hospital & Surgical benefits (100% reimbursement) with overall annual limit HK$1,200,000 (Plan 1) / HK$2,000,000 (Plan 2); optional Clinical, Dental and Maternity benefits",
+  "pricing": "Annual premium per insured member (HK$), by attained age 0-64: Hospital & Surgical Plan 1 9,462-30,570, Plan 2 10,964-36; Clinical Plan 1 5,111-12,519, Plan 2 6,955-14,969",
+  "age": "15 days-64",
+  "customer requirement": "Companies with >=3 employees; insured members must be Hong Kong residents",
+  "price structure": "Age-banded annual premium per insured member by Plan 1/2 and coverage type; non-annual payment uses fixed factors",
+  "additional informations": "Underwriting: 3-9 insured employees require evidence of insurability, 10+ no underwriting; conversion privilege for groups with 20+ insured employees; yearly renewable with no guaranteed renewal"
+}

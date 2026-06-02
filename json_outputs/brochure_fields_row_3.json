@@ -1,0 +1,9 @@
+{
+  "Plan_category": "health",
+  "Coverage_Description": "Network-only outpatient medical and dental cover: GP, specialist, physiotherapy, TCM/bone-setting, X-ray/lab, plus dental exam/scaling/fillings/emergency/simple extraction/periodon; plan-based visit limits and co-payments apply; max one visit per item per day",
+  "pricing": "Outpatient annual premium: HKD 1,310 (Standard), 1,720 (Enhanced), 4,038 (Platinum); Dental annual premium: HKD 1,030 (Standard), 1,560 (Enhanced); as low as HKD 99/month (outpatient) and HKD 73/month (dental).",
+  "age": "15 days-64",
+  "customer requirement": "Advance appointment with network doctor; present ClinicGo e-Medical Card plus Hong Kong identity card (or Hong Kong birth certificate for age 12 or below)",
+  "price structure": "Modular selection (outpatient, dental, or bundled) with tiered plans (3 outpatient tiers; 2 dental tiers), annual premium by plan, and per-visit co-payment schedule",
+  "additional informations": "virtual consultation available at selected network GPs; policy term is 1 year, renewable up to age 75 (coverage terminates at age 76)"
+}

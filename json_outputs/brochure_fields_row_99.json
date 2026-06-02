@@ -1,0 +1,9 @@
+{
+  "Plan_category": "savings",
+  "Coverage_Description": "Guaranteed 5% cash coupon each year from policy year 2; guaranteed maturity components total 120% of sum assured over a 21/25-year term, with potential non-guaranteed bonuses; death benefit pays sum assured plus declared bonuses and accumulated cash coupons (less debts), with 50%/25% sum-assured reduction if death occurs before ANB 2 / before ANB 3",
+  "pricing": "Illustration (insured ANB 1, sum assured US$20,000): US$2,000/year (21-year term) or US$1,828/year (25-year term).",
+  "age": "15 days-15",
+  "customer requirement": "child insured (ANB 1-15); insured must be at least 15 days old at application",
+  "price structure": "regular premium; pay term 21 or 25 years",
+  "additional informations": "participating policy (policyholders share at least 90% of distributable profits); optional riders available (medical, critical illness, accident, payer protection); cash-coupon accumulation interest currently 4% p.a. (non-guaranteed)"
+}

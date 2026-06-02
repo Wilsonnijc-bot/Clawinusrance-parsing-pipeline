@@ -1,0 +1,26 @@
+[
+  {
+    "Plan_ID": "test-34",
+    "Plan_Name": "隽珀投资计划",
+    "Provider_Company": "保诚香港",
+    "Monthly_Premium_Min": null,
+    "Monthly_Premium_Max": null,
+    "Deductible_Range": null,
+    "Out_of_Pocket_Max_Est": null,
+    "Cost_Tier": null,
+    "Copays_Description": null,
+    "Coverage_Description": null,
+    "Network_Type": null,
+    "Geographic_Coverage": null,
+    "Campus_Compatible": null,
+    "Min_Age": null,
+    "Max_Age": null,
+    "Student_Eligible": null,
+    "International_Student_Compatible": null,
+    "Overall_Rating": null,
+    "Plan_Description": "隽珀投资计划是一个趸交保费的终身投资相连寿险计划，专为19至70岁（下次生日年龄）的保单持有人及15日至70岁（下次生日年龄）的受保人而设。",
+    "URL": "https://www.prudential.com.hk/sc/products/investment/prulink-opal-investment-plan/",
+    "Last_Updated": "2026-01-20T03:33:07Z",
+    "Product_Brochure_route": "https://www.prudential.com.hk/content/dam/prudential-phkl/pdf/sc/brochure/PHKLAEM-861_POPI_PB_SC_Apr24.pdf.coredownload.inline.pdf"
+  }
+]
